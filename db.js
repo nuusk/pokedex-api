@@ -33,7 +33,6 @@ class Database {
   }
 
   findPokemonById(pokemonId, res) {
-    console.log(pokemonId);
     Pokemon.find({id:pokemonId}, (err, pokemon) => {
       if (err) return res.status(500).send("Pokedex is broken.");
       res.status(200).send(pokemon);
