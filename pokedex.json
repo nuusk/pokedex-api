@@ -92,8 +92,8 @@
             ]
         }, 
         "type": [
-            "\u8349", 
-            "\u6bd2"
+            "grass", 
+            "poison"
         ]
     }, 
     {
@@ -105,7 +105,7 @@
             "Sp.Def": 80, 
             "Speed": 60
         }, 
-        "cname": "\u5999\u86d9\u8349", 
+        "cname": "\u5999\u86d9grass", 
         "ename": "Ivysaur", 
         "id": "002", 
         "jname": "\u30d5\u30b7\u30ae\u30bd\u30a6", 
@@ -195,8 +195,8 @@
             ]
         }, 
         "type": [
-            "\u8349", 
-            "\u6bd2"
+            "grass", 
+            "poison"
         ]
     }, 
     {
@@ -310,8 +310,8 @@
             ]
         }, 
         "type": [
-            "\u8349", 
-            "\u6bd2"
+            "grass", 
+            "poison"
         ]
     }, 
     {
@@ -323,7 +323,7 @@
             "Sp.Def": 50, 
             "Speed": 65
         }, 
-        "cname": "\u5c0f\u706b\u9f99", 
+        "cname": "\u5c0f\u706bdragon", 
         "ename": "Charmander", 
         "id": "004", 
         "jname": "\u30d2\u30c8\u30ab\u30b2", 
@@ -413,7 +413,7 @@
             ]
         }, 
         "type": [
-            "\u708e"
+            "fire"
         ]
     }, 
     {
@@ -425,7 +425,7 @@
             "Sp.Def": 65, 
             "Speed": 80
         }, 
-        "cname": "\u706b\u6050\u9f99", 
+        "cname": "\u706b\u6050dragon", 
         "ename": "Charmeleon", 
         "id": "005", 
         "jname": "\u30ea\u30b6\u30fc\u30c9", 
@@ -516,7 +516,7 @@
             ]
         }, 
         "type": [
-            "\u708e"
+            "fire"
         ]
     }, 
     {
@@ -528,7 +528,7 @@
             "Sp.Def": 85, 
             "Speed": 100
         }, 
-        "cname": "\u55b7\u706b\u9f99", 
+        "cname": "\u55b7\u706bdragon", 
         "ename": "Charizard", 
         "id": "006", 
         "jname": "\u30ea\u30b6\u30fc\u30c9\u30f3", 
@@ -643,8 +643,8 @@
             ]
         }, 
         "type": [
-            "\u708e", 
-            "\u98de\u884c"
+            "fire", 
+            "flying"
         ]
     }, 
     {
@@ -746,7 +746,7 @@
             ]
         }, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -850,7 +850,7 @@
             ]
         }, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -862,7 +862,7 @@
             "Sp.Def": 105, 
             "Speed": 78
         }, 
-        "cname": "\u6c34\u7bad\u9f9f", 
+        "cname": "water\u7bad\u9f9f", 
         "ename": "Blastoise", 
         "id": "009", 
         "jname": "\u30ab\u30e1\u30c3\u30af\u30b9", 
@@ -972,7 +972,7 @@
             ]
         }, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -984,7 +984,7 @@
             "Sp.Def": 20, 
             "Speed": 45
         }, 
-        "cname": "\u7eff\u6bdb\u866b", 
+        "cname": "\u7eff\u6bdbbug", 
         "ename": "Caterpie", 
         "id": "010", 
         "jname": "\u30ad\u30e3\u30bf\u30d4\u30fc", 
@@ -1000,7 +1000,7 @@
             ]
         }, 
         "type": [
-            "\u866b"
+            "bug"
         ]
     }, 
     {
@@ -1033,7 +1033,7 @@
             ]
         }, 
         "type": [
-            "\u866b"
+            "bug"
         ]
     }, 
     {
@@ -1124,8 +1124,8 @@
             ]
         }, 
         "type": [
-            "\u866b", 
-            "\u98de\u884c"
+            "bug", 
+            "flying"
         ]
     }, 
     {
@@ -1137,7 +1137,7 @@
             "Sp.Def": 20, 
             "Speed": 50
         }, 
-        "cname": "\u72ec\u89d2\u866b", 
+        "cname": "\u72ec\u89d2bug", 
         "ename": "Weedle", 
         "id": "013", 
         "jname": "\u30d3\u30fc\u30c9\u30eb", 
@@ -1152,8 +1152,8 @@
             ]
         }, 
         "type": [
-            "\u866b", 
-            "\u6bd2"
+            "bug", 
+            "poison"
         ]
     }, 
     {
@@ -1186,8 +1186,8 @@
             ]
         }, 
         "type": [
-            "\u866b", 
-            "\u6bd2"
+            "bug", 
+            "poison"
         ]
     }, 
     {
@@ -1280,8 +1280,8 @@
             ]
         }, 
         "type": [
-            "\u866b", 
-            "\u6bd2"
+            "bug", 
+            "poison"
         ]
     }, 
     {
@@ -1362,8 +1362,8 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c", 
-            "\u98de\u884c"
+            "normal", 
+            "flying"
         ]
     }, 
     {
@@ -1446,8 +1446,8 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c", 
-            "\u98de\u884c"
+            "normal", 
+            "flying"
         ]
     }, 
     {
@@ -1535,8 +1535,8 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c", 
-            "\u98de\u884c"
+            "normal", 
+            "flying"
         ]
     }, 
     {
@@ -1554,7 +1554,7 @@
         "jname": "\u30b3\u30e9\u30c3\u30bf", 
         "skills": {}, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -1572,7 +1572,7 @@
         "jname": "\u30e9\u30c3\u30bf", 
         "skills": {}, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -1657,8 +1657,8 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c", 
-            "\u98de\u884c"
+            "normal", 
+            "flying"
         ]
     }, 
     {
@@ -1747,8 +1747,8 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c", 
-            "\u98de\u884c"
+            "normal", 
+            "flying"
         ]
     }, 
     {
@@ -1844,7 +1844,7 @@
             ]
         }, 
         "type": [
-            "\u6bd2"
+            "poison"
         ]
     }, 
     {
@@ -1949,7 +1949,7 @@
             ]
         }, 
         "type": [
-            "\u6bd2"
+            "poison"
         ]
     }, 
     {
@@ -2055,7 +2055,7 @@
             ]
         }, 
         "type": [
-            "\u7535"
+            "electric"
         ]
     }, 
     {
@@ -2165,7 +2165,7 @@
             ]
         }, 
         "type": [
-            "\u7535"
+            "electric"
         ]
     }, 
     {
@@ -2266,7 +2266,7 @@
             ]
         }, 
         "type": [
-            "\u5730\u4e0a"
+            "ground"
         ]
     }, 
     {
@@ -2374,7 +2374,7 @@
             ]
         }, 
         "type": [
-            "\u5730\u4e0a"
+            "ground"
         ]
     }, 
     {
@@ -2467,7 +2467,7 @@
             ]
         }, 
         "type": [
-            "\u6bd2"
+            "poison"
         ]
     }, 
     {
@@ -2559,7 +2559,7 @@
             ]
         }, 
         "type": [
-            "\u6bd2"
+            "poison"
         ]
     }, 
     {
@@ -2696,8 +2696,8 @@
             ]
         }, 
         "type": [
-            "\u6bd2", 
-            "\u5730\u4e0a"
+            "poison", 
+            "ground"
         ]
     }, 
     {
@@ -2790,7 +2790,7 @@
             ]
         }, 
         "type": [
-            "\u6bd2"
+            "poison"
         ]
     }, 
     {
@@ -2882,7 +2882,7 @@
             ]
         }, 
         "type": [
-            "\u6bd2"
+            "poison"
         ]
     }, 
     {
@@ -3020,8 +3020,8 @@
             ]
         }, 
         "type": [
-            "\u6bd2", 
-            "\u5730\u4e0a"
+            "poison", 
+            "ground"
         ]
     }, 
     {
@@ -3420,7 +3420,7 @@
             ]
         }, 
         "type": [
-            "\u708e"
+            "fire"
         ]
     }, 
     {
@@ -3528,7 +3528,7 @@
             ]
         }, 
         "type": [
-            "\u708e"
+            "fire"
         ]
     }, 
     {
@@ -3658,7 +3658,7 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c", 
+            "normal", 
             "\u5996\u7cbe"
         ]
     }, 
@@ -3795,7 +3795,7 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c", 
+            "normal", 
             "\u5996\u7cbe"
         ]
     }, 
@@ -3891,8 +3891,8 @@
             ]
         }, 
         "type": [
-            "\u6bd2", 
-            "\u98de\u884c"
+            "poison", 
+            "flying"
         ]
     }, 
     {
@@ -3992,8 +3992,8 @@
             ]
         }, 
         "type": [
-            "\u6bd2", 
-            "\u98de\u884c"
+            "poison", 
+            "flying"
         ]
     }, 
     {
@@ -4005,7 +4005,7 @@
             "Sp.Def": 65, 
             "Speed": 30
         }, 
-        "cname": "\u8d70\u8def\u8349", 
+        "cname": "\u8d70\u8defgrass", 
         "ename": "Oddish", 
         "id": "043", 
         "jname": "\u30ca\u30be\u30ce\u30af\u30b5", 
@@ -4076,8 +4076,8 @@
             ]
         }, 
         "type": [
-            "\u8349", 
-            "\u6bd2"
+            "grass", 
+            "poison"
         ]
     }, 
     {
@@ -4165,8 +4165,8 @@
             ]
         }, 
         "type": [
-            "\u8349", 
-            "\u6bd2"
+            "grass", 
+            "poison"
         ]
     }, 
     {
@@ -4261,8 +4261,8 @@
             ]
         }, 
         "type": [
-            "\u8349", 
-            "\u6bd2"
+            "grass", 
+            "poison"
         ]
     }, 
     {
@@ -4358,8 +4358,8 @@
             ]
         }, 
         "type": [
-            "\u866b", 
-            "\u8349"
+            "bug", 
+            "grass"
         ]
     }, 
     {
@@ -4461,8 +4461,8 @@
             ]
         }, 
         "type": [
-            "\u866b", 
-            "\u8349"
+            "bug", 
+            "grass"
         ]
     }, 
     {
@@ -4541,8 +4541,8 @@
             ]
         }, 
         "type": [
-            "\u866b", 
-            "\u6bd2"
+            "bug", 
+            "poison"
         ]
     }, 
     {
@@ -4637,8 +4637,8 @@
             ]
         }, 
         "type": [
-            "\u866b", 
-            "\u6bd2"
+            "bug", 
+            "poison"
         ]
     }, 
     {
@@ -4726,7 +4726,7 @@
             ]
         }, 
         "type": [
-            "\u5730\u4e0a"
+            "ground"
         ]
     }, 
     {
@@ -4823,7 +4823,7 @@
             ]
         }, 
         "type": [
-            "\u5730\u4e0a"
+            "ground"
         ]
     }, 
     {
@@ -4841,7 +4841,7 @@
         "jname": "\u30cb\u30e3\u30fc\u30b9", 
         "skills": {}, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -4859,7 +4859,7 @@
         "jname": "\u30da\u30eb\u30b7\u30a2\u30f3", 
         "skills": {}, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -4968,7 +4968,7 @@
             ]
         }, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -5085,7 +5085,7 @@
             ]
         }, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -5200,7 +5200,7 @@
             ]
         }, 
         "type": [
-            "\u683c\u6597"
+            "fighting"
         ]
     }, 
     {
@@ -5324,7 +5324,7 @@
             ]
         }, 
         "type": [
-            "\u683c\u6597"
+            "fighting"
         ]
     }, 
     {
@@ -5418,7 +5418,7 @@
             ]
         }, 
         "type": [
-            "\u708e"
+            "fire"
         ]
     }, 
     {
@@ -5524,7 +5524,7 @@
             ]
         }, 
         "type": [
-            "\u708e"
+            "fire"
         ]
     }, 
     {
@@ -5609,7 +5609,7 @@
             ]
         }, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -5705,7 +5705,7 @@
             ]
         }, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -5816,8 +5816,8 @@
             ]
         }, 
         "type": [
-            "\u6c34", 
-            "\u683c\u6597"
+            "water", 
+            "fighting"
         ]
     }, 
     {
@@ -5915,7 +5915,7 @@
             ]
         }, 
         "type": [
-            "\u8d85\u80fd"
+            "psychic"
         ]
     }, 
     {
@@ -6025,7 +6025,7 @@
             ]
         }, 
         "type": [
-            "\u8d85\u80fd"
+            "psychic"
         ]
     }, 
     {
@@ -6142,7 +6142,7 @@
             ]
         }, 
         "type": [
-            "\u8d85\u80fd"
+            "psychic"
         ]
     }, 
     {
@@ -6247,7 +6247,7 @@
             ]
         }, 
         "type": [
-            "\u683c\u6597"
+            "fighting"
         ]
     }, 
     {
@@ -6354,7 +6354,7 @@
             ]
         }, 
         "type": [
-            "\u683c\u6597"
+            "fighting"
         ]
     }, 
     {
@@ -6465,7 +6465,7 @@
             ]
         }, 
         "type": [
-            "\u683c\u6597"
+            "fighting"
         ]
     }, 
     {
@@ -6553,8 +6553,8 @@
             ]
         }, 
         "type": [
-            "\u8349", 
-            "\u6bd2"
+            "grass", 
+            "poison"
         ]
     }, 
     {
@@ -6645,8 +6645,8 @@
             ]
         }, 
         "type": [
-            "\u8349", 
-            "\u6bd2"
+            "grass", 
+            "poison"
         ]
     }, 
     {
@@ -6747,8 +6747,8 @@
             ]
         }, 
         "type": [
-            "\u8349", 
-            "\u6bd2"
+            "grass", 
+            "poison"
         ]
     }, 
     {
@@ -6760,7 +6760,7 @@
             "Sp.Def": 100, 
             "Speed": 70
         }, 
-        "cname": "\u739b\u7459\u6c34\u6bcd", 
+        "cname": "\u739b\u7459water\u6bcd", 
         "ename": "Tentacool", 
         "id": "072", 
         "jname": "\u30e1\u30ce\u30af\u30e9\u30b2", 
@@ -6846,8 +6846,8 @@
             ]
         }, 
         "type": [
-            "\u6c34", 
-            "\u6bd2"
+            "water", 
+            "poison"
         ]
     }, 
     {
@@ -6859,7 +6859,7 @@
             "Sp.Def": 120, 
             "Speed": 100
         }, 
-        "cname": "\u6bd2\u523a\u6c34\u6bcd", 
+        "cname": "poison\u523awater\u6bcd", 
         "ename": "Tentacruel", 
         "id": "073", 
         "jname": "\u30c9\u30af\u30af\u30e9\u30b2", 
@@ -6951,8 +6951,8 @@
             ]
         }, 
         "type": [
-            "\u6c34", 
-            "\u6bd2"
+            "water", 
+            "poison"
         ]
     }, 
     {
@@ -7049,8 +7049,8 @@
             ]
         }, 
         "type": [
-            "\u5ca9\u77f3", 
-            "\u5730\u4e0a"
+            "rock", 
+            "ground"
         ]
     }, 
     {
@@ -7147,8 +7147,8 @@
             ]
         }, 
         "type": [
-            "\u5ca9\u77f3", 
-            "\u5730\u4e0a"
+            "rock", 
+            "ground"
         ]
     }, 
     {
@@ -7255,8 +7255,8 @@
             ]
         }, 
         "type": [
-            "\u5ca9\u77f3", 
-            "\u5730\u4e0a"
+            "rock", 
+            "ground"
         ]
     }, 
     {
@@ -7339,7 +7339,7 @@
             ]
         }, 
         "type": [
-            "\u708e"
+            "fire"
         ]
     }, 
     {
@@ -7434,7 +7434,7 @@
             ]
         }, 
         "type": [
-            "\u708e"
+            "fire"
         ]
     }, 
     {
@@ -7546,8 +7546,8 @@
             ]
         }, 
         "type": [
-            "\u6c34", 
-            "\u8d85\u80fd"
+            "water", 
+            "psychic"
         ]
     }, 
     {
@@ -7675,8 +7675,8 @@
             ]
         }, 
         "type": [
-            "\u6c34", 
-            "\u8d85\u80fd"
+            "water", 
+            "psychic"
         ]
     }, 
     {
@@ -7757,7 +7757,7 @@
             ]
         }, 
         "type": [
-            "\u7535", 
+            "electric", 
             "\u94a2"
         ]
     }, 
@@ -7846,7 +7846,7 @@
             ]
         }, 
         "type": [
-            "\u7535", 
+            "electric", 
             "\u94a2"
         ]
     }, 
@@ -7954,8 +7954,8 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c", 
-            "\u98de\u884c"
+            "normal", 
+            "flying"
         ]
     }, 
     {
@@ -8034,8 +8034,8 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c", 
-            "\u98de\u884c"
+            "normal", 
+            "flying"
         ]
     }, 
     {
@@ -8124,8 +8124,8 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c", 
-            "\u98de\u884c"
+            "normal", 
+            "flying"
         ]
     }, 
     {
@@ -8217,7 +8217,7 @@
             ]
         }, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -8320,8 +8320,8 @@
             ]
         }, 
         "type": [
-            "\u6c34", 
-            "\u51b0"
+            "water", 
+            "ice"
         ]
     }, 
     {
@@ -8424,7 +8424,7 @@
             ]
         }, 
         "type": [
-            "\u6bd2"
+            "poison"
         ]
     }, 
     {
@@ -8537,7 +8537,7 @@
             ]
         }, 
         "type": [
-            "\u6bd2"
+            "poison"
         ]
     }, 
     {
@@ -8620,7 +8620,7 @@
             ]
         }, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -8718,8 +8718,8 @@
             ]
         }, 
         "type": [
-            "\u6c34", 
-            "\u51b0"
+            "water", 
+            "ice"
         ]
     }, 
     {
@@ -8825,8 +8825,8 @@
             ]
         }, 
         "type": [
-            "\u5e7d\u7075", 
-            "\u6bd2"
+            "ghost", 
+            "poison"
         ]
     }, 
     {
@@ -8937,8 +8937,8 @@
             ]
         }, 
         "type": [
-            "\u5e7d\u7075", 
-            "\u6bd2"
+            "ghost", 
+            "poison"
         ]
     }, 
     {
@@ -9060,8 +9060,8 @@
             ]
         }, 
         "type": [
-            "\u5e7d\u7075", 
-            "\u6bd2"
+            "ghost", 
+            "poison"
         ]
     }, 
     {
@@ -9162,8 +9162,8 @@
             ]
         }, 
         "type": [
-            "\u5ca9\u77f3", 
-            "\u5730\u4e0a"
+            "rock", 
+            "ground"
         ]
     }, 
     {
@@ -9270,7 +9270,7 @@
             ]
         }, 
         "type": [
-            "\u8d85\u80fd"
+            "psychic"
         ]
     }, 
     {
@@ -9386,7 +9386,7 @@
             ]
         }, 
         "type": [
-            "\u8d85\u80fd"
+            "psychic"
         ]
     }, 
     {
@@ -9480,7 +9480,7 @@
             ]
         }, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -9580,7 +9580,7 @@
             ]
         }, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -9592,7 +9592,7 @@
             "Sp.Def": 55, 
             "Speed": 100
         }, 
-        "cname": "\u96f7\u7535\u7403", 
+        "cname": "\u96f7electric\u7403", 
         "ename": "Voltorb", 
         "id": "100", 
         "jname": "\u30d3\u30ea\u30ea\u30c0\u30de", 
@@ -9656,7 +9656,7 @@
             ]
         }, 
         "type": [
-            "\u7535"
+            "electric"
         ]
     }, 
     {
@@ -9737,7 +9737,7 @@
             ]
         }, 
         "type": [
-            "\u7535"
+            "electric"
         ]
     }, 
     {
@@ -9832,8 +9832,8 @@
             ]
         }, 
         "type": [
-            "\u8349", 
-            "\u8d85\u80fd"
+            "grass", 
+            "psychic"
         ]
     }, 
     {
@@ -9942,8 +9942,8 @@
             ]
         }, 
         "type": [
-            "\u8349", 
-            "\u8d85\u80fd"
+            "grass", 
+            "psychic"
         ]
     }, 
     {
@@ -10048,7 +10048,7 @@
             ]
         }, 
         "type": [
-            "\u5730\u4e0a"
+            "ground"
         ]
     }, 
     {
@@ -10161,7 +10161,7 @@
             ]
         }, 
         "type": [
-            "\u5730\u4e0a"
+            "ground"
         ]
     }, 
     {
@@ -10268,7 +10268,7 @@
             ]
         }, 
         "type": [
-            "\u683c\u6597"
+            "fighting"
         ]
     }, 
     {
@@ -10373,7 +10373,7 @@
             ]
         }, 
         "type": [
-            "\u683c\u6597"
+            "fighting"
         ]
     }, 
     {
@@ -10489,7 +10489,7 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -10507,7 +10507,7 @@
         "jname": "\u30c9\u30ac\u30fc\u30b9", 
         "skills": {}, 
         "type": [
-            "\u6bd2"
+            "poison"
         ]
     }, 
     {
@@ -10525,7 +10525,7 @@
         "jname": "\u30de\u30bf\u30c9\u30ac\u30b9", 
         "skills": {}, 
         "type": [
-            "\u6bd2"
+            "poison"
         ]
     }, 
     {
@@ -10635,8 +10635,8 @@
             ]
         }, 
         "type": [
-            "\u5730\u4e0a", 
-            "\u5ca9\u77f3"
+            "ground", 
+            "rock"
         ]
     }, 
     {
@@ -10648,7 +10648,7 @@
             "Sp.Def": 45, 
             "Speed": 40
         }, 
-        "cname": "\u94c1\u7532\u66b4\u9f99", 
+        "cname": "\u94c1\u7532\u66b4dragon", 
         "ename": "Rhydon", 
         "id": "112", 
         "jname": "\u30b5\u30a4\u30c9\u30f3", 
@@ -10770,8 +10770,8 @@
             ]
         }, 
         "type": [
-            "\u5730\u4e0a", 
-            "\u5ca9\u77f3"
+            "ground", 
+            "rock"
         ]
     }, 
     {
@@ -10907,7 +10907,7 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -11004,7 +11004,7 @@
             ]
         }, 
         "type": [
-            "\u8349"
+            "grass"
         ]
     }, 
     {
@@ -11016,7 +11016,7 @@
             "Sp.Def": 80, 
             "Speed": 90
         }, 
-        "cname": "\u888b\u9f99", 
+        "cname": "\u888bdragon", 
         "ename": "Kangaskhan", 
         "id": "115", 
         "jname": "\u30ac\u30eb\u30fc\u30e9", 
@@ -11127,7 +11127,7 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -11210,7 +11210,7 @@
             ]
         }, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -11222,7 +11222,7 @@
             "Sp.Def": 45, 
             "Speed": 85
         }, 
-        "cname": "\u6d77\u523a\u9f99", 
+        "cname": "\u6d77\u523adragon", 
         "ename": "Seadra", 
         "id": "117", 
         "jname": "\u30b7\u30fc\u30c9\u30e9", 
@@ -11298,7 +11298,7 @@
             ]
         }, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -11383,7 +11383,7 @@
             ]
         }, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -11473,7 +11473,7 @@
             ]
         }, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -11558,7 +11558,7 @@
             ]
         }, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -11658,8 +11658,8 @@
             ]
         }, 
         "type": [
-            "\u6c34", 
-            "\u8d85\u80fd"
+            "water", 
+            "psychic"
         ]
     }, 
     {
@@ -11797,7 +11797,7 @@
             ]
         }, 
         "type": [
-            "\u8d85\u80fd", 
+            "psychic", 
             "\u5996\u7cbe"
         ]
     }, 
@@ -11893,8 +11893,8 @@
             ]
         }, 
         "type": [
-            "\u866b", 
-            "\u98de\u884c"
+            "bug", 
+            "flying"
         ]
     }, 
     {
@@ -12020,8 +12020,8 @@
             ]
         }, 
         "type": [
-            "\u51b0", 
-            "\u8d85\u80fd"
+            "ice", 
+            "psychic"
         ]
     }, 
     {
@@ -12033,7 +12033,7 @@
             "Sp.Def": 85, 
             "Speed": 105
         }, 
-        "cname": "\u7535\u51fb\u517d", 
+        "cname": "electric\u51fb\u517d", 
         "ename": "Electabuzz", 
         "id": "125", 
         "jname": "\u30a8\u30ec\u30d6\u30fc", 
@@ -12120,7 +12120,7 @@
             ]
         }, 
         "type": [
-            "\u7535"
+            "electric"
         ]
     }, 
     {
@@ -12132,7 +12132,7 @@
             "Sp.Def": 85, 
             "Speed": 93
         }, 
-        "cname": "\u9e2d\u5634\u706b\u9f99", 
+        "cname": "\u9e2d\u5634\u706bdragon", 
         "ename": "Magmar", 
         "id": "126", 
         "jname": "\u30d6\u30fc\u30d0\u30fc", 
@@ -12218,7 +12218,7 @@
             ]
         }, 
         "type": [
-            "\u708e"
+            "fire"
         ]
     }, 
     {
@@ -12315,7 +12315,7 @@
             ]
         }, 
         "type": [
-            "\u866b"
+            "bug"
         ]
     }, 
     {
@@ -12409,7 +12409,7 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -12436,7 +12436,7 @@
             ]
         }, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -12448,7 +12448,7 @@
             "Sp.Def": 100, 
             "Speed": 81
         }, 
-        "cname": "\u66b4\u9ca4\u9f99", 
+        "cname": "\u66b4\u9ca4dragon", 
         "ename": "Gyarados", 
         "id": "130", 
         "jname": "\u30ae\u30e3\u30e9\u30c9\u30b9", 
@@ -12536,8 +12536,8 @@
             ]
         }, 
         "type": [
-            "\u6c34", 
-            "\u98de\u884c"
+            "water", 
+            "flying"
         ]
     }, 
     {
@@ -12549,7 +12549,7 @@
             "Sp.Def": 95, 
             "Speed": 60
         }, 
-        "cname": "\u4e58\u9f99", 
+        "cname": "\u4e58dragon", 
         "ename": "Lapras", 
         "id": "131", 
         "jname": "\u30e9\u30d7\u30e9\u30b9", 
@@ -12644,8 +12644,8 @@
             ]
         }, 
         "type": [
-            "\u6c34", 
-            "\u51b0"
+            "water", 
+            "ice"
         ]
     }, 
     {
@@ -12668,7 +12668,7 @@
             "transfer": []
         }, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -12752,7 +12752,7 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -12764,7 +12764,7 @@
             "Sp.Def": 95, 
             "Speed": 65
         }, 
-        "cname": "\u6c34\u7cbe\u7075", 
+        "cname": "water\u7cbe\u7075", 
         "ename": "Vaporeon", 
         "id": "134", 
         "jname": "\u30b7\u30e3\u30ef\u30fc\u30ba", 
@@ -12864,7 +12864,7 @@
             ]
         }, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -12974,7 +12974,7 @@
             ]
         }, 
         "type": [
-            "\u7535"
+            "electric"
         ]
     }, 
     {
@@ -13080,7 +13080,7 @@
             ]
         }, 
         "type": [
-            "\u708e"
+            "fire"
         ]
     }, 
     {
@@ -13092,13 +13092,13 @@
             "Sp.Def": 75, 
             "Speed": 40
         }, 
-        "cname": "3D\u9f99", 
+        "cname": "3Ddragon", 
         "ename": "Porygon", 
         "id": "137", 
         "jname": "\u30dd\u30ea\u30b4\u30f3", 
         "skills": {}, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -13193,8 +13193,8 @@
             ]
         }, 
         "type": [
-            "\u5ca9\u77f3", 
-            "\u6c34"
+            "rock", 
+            "water"
         ]
     }, 
     {
@@ -13295,8 +13295,8 @@
             ]
         }, 
         "type": [
-            "\u5ca9\u77f3", 
-            "\u6c34"
+            "rock", 
+            "water"
         ]
     }, 
     {
@@ -13387,8 +13387,8 @@
             ]
         }, 
         "type": [
-            "\u5ca9\u77f3", 
-            "\u6c34"
+            "rock", 
+            "water"
         ]
     }, 
     {
@@ -13498,8 +13498,8 @@
             ]
         }, 
         "type": [
-            "\u5ca9\u77f3", 
-            "\u6c34"
+            "rock", 
+            "water"
         ]
     }, 
     {
@@ -13511,7 +13511,7 @@
             "Sp.Def": 75, 
             "Speed": 130
         }, 
-        "cname": "\u5316\u77f3\u7ffc\u9f99", 
+        "cname": "\u5316\u77f3\u7ffcdragon", 
         "ename": "Aerodactyl", 
         "id": "142", 
         "jname": "\u30d7\u30c6\u30e9", 
@@ -13610,8 +13610,8 @@
             ]
         }, 
         "type": [
-            "\u5ca9\u77f3", 
-            "\u98de\u884c"
+            "rock", 
+            "flying"
         ]
     }, 
     {
@@ -13743,7 +13743,7 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -13831,8 +13831,8 @@
             ]
         }, 
         "type": [
-            "\u51b0", 
-            "\u98de\u884c"
+            "ice", 
+            "flying"
         ]
     }, 
     {
@@ -13844,7 +13844,7 @@
             "Sp.Def": 90, 
             "Speed": 100
         }, 
-        "cname": "\u95ea\u7535\u9e1f", 
+        "cname": "\u95eaelectric\u9e1f", 
         "ename": "Zapdos", 
         "id": "145", 
         "jname": "\u30b5\u30f3\u30c0\u30fc", 
@@ -13919,8 +13919,8 @@
             ]
         }, 
         "type": [
-            "\u7535", 
-            "\u98de\u884c"
+            "electric", 
+            "flying"
         ]
     }, 
     {
@@ -14005,8 +14005,8 @@
             ]
         }, 
         "type": [
-            "\u708e", 
-            "\u98de\u884c"
+            "fire", 
+            "flying"
         ]
     }, 
     {
@@ -14018,7 +14018,7 @@
             "Sp.Def": 50, 
             "Speed": 50
         }, 
-        "cname": "\u8ff7\u4f60\u9f99", 
+        "cname": "\u8ff7\u4f60dragon", 
         "ename": "Dratini", 
         "id": "147", 
         "jname": "\u30df\u30cb\u30ea\u30e5\u30a6", 
@@ -14102,7 +14102,7 @@
             ]
         }, 
         "type": [
-            "\u9f99"
+            "dragon"
         ]
     }, 
     {
@@ -14114,7 +14114,7 @@
             "Sp.Def": 70, 
             "Speed": 70
         }, 
-        "cname": "\u54c8\u514b\u9f99", 
+        "cname": "\u54c8\u514bdragon", 
         "ename": "Dragonair", 
         "id": "148", 
         "jname": "\u30cf\u30af\u30ea\u30e5\u30fc", 
@@ -14200,7 +14200,7 @@
             ]
         }, 
         "type": [
-            "\u9f99"
+            "dragon"
         ]
     }, 
     {
@@ -14212,7 +14212,7 @@
             "Sp.Def": 100, 
             "Speed": 80
         }, 
-        "cname": "\u5feb\u9f99", 
+        "cname": "\u5febdragon", 
         "ename": "Dragonite", 
         "id": "149", 
         "jname": "\u30ab\u30a4\u30ea\u30e5\u30fc", 
@@ -14334,8 +14334,8 @@
             ]
         }, 
         "type": [
-            "\u9f99", 
-            "\u98de\u884c"
+            "dragon", 
+            "flying"
         ]
     }, 
     {
@@ -14468,7 +14468,7 @@
             ]
         }, 
         "type": [
-            "\u8d85\u80fd"
+            "psychic"
         ]
     }, 
     {
@@ -14486,7 +14486,7 @@
         "jname": "\u30df\u30e5\u30a6", 
         "skills": {}, 
         "type": [
-            "\u8d85\u80fd"
+            "psychic"
         ]
     }, 
     {
@@ -14498,13 +14498,13 @@
             "Sp.Def": 65, 
             "Speed": 45
         }, 
-        "cname": "\u83ca\u8349\u53f6", 
+        "cname": "\u83cagrass\u53f6", 
         "ename": "Chikorita", 
         "id": "152", 
         "jname": "\u30c1\u30b3\u30ea\u30fc\u30bf", 
         "skills": {}, 
         "type": [
-            "\u8349"
+            "grass"
         ]
     }, 
     {
@@ -14522,7 +14522,7 @@
         "jname": "\u30d9\u30a4\u30ea\u30fc\u30d5", 
         "skills": {}, 
         "type": [
-            "\u8349"
+            "grass"
         ]
     }, 
     {
@@ -14540,7 +14540,7 @@
         "jname": "\u30e1\u30ac\u30cb\u30a6\u30e0", 
         "skills": {}, 
         "type": [
-            "\u8349"
+            "grass"
         ]
     }, 
     {
@@ -14558,7 +14558,7 @@
         "jname": "\u30d2\u30ce\u30a2\u30e9\u30b7", 
         "skills": {}, 
         "type": [
-            "\u708e"
+            "fire"
         ]
     }, 
     {
@@ -14576,7 +14576,7 @@
         "jname": "\u30de\u30b0\u30de\u30e9\u30b7", 
         "skills": {}, 
         "type": [
-            "\u708e"
+            "fire"
         ]
     }, 
     {
@@ -14594,7 +14594,7 @@
         "jname": "\u30d0\u30af\u30d5\u30fc\u30f3", 
         "skills": {}, 
         "type": [
-            "\u708e"
+            "fire"
         ]
     }, 
     {
@@ -14612,7 +14612,7 @@
         "jname": "\u30ef\u30cb\u30ce\u30b3", 
         "skills": {}, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -14630,7 +14630,7 @@
         "jname": "\u30a2\u30ea\u30b2\u30a4\u30c4", 
         "skills": {}, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -14648,7 +14648,7 @@
         "jname": "\u30aa\u30fc\u30c0\u30a4\u30eb", 
         "skills": {}, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -14752,7 +14752,7 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -14865,7 +14865,7 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -14959,8 +14959,8 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c", 
-            "\u98de\u884c"
+            "normal", 
+            "flying"
         ]
     }, 
     {
@@ -15059,8 +15059,8 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c", 
-            "\u98de\u884c"
+            "normal", 
+            "flying"
         ]
     }, 
     {
@@ -15072,7 +15072,7 @@
             "Sp.Def": 80, 
             "Speed": 55
         }, 
-        "cname": "\u82ad\u74e2\u866b", 
+        "cname": "\u82ad\u74e2bug", 
         "ename": "Ledyba", 
         "id": "165", 
         "jname": "\u30ec\u30c7\u30a3\u30d0", 
@@ -15153,8 +15153,8 @@
             ]
         }, 
         "type": [
-            "\u866b", 
-            "\u98de\u884c"
+            "bug", 
+            "flying"
         ]
     }, 
     {
@@ -15166,7 +15166,7 @@
             "Sp.Def": 110, 
             "Speed": 85
         }, 
-        "cname": "\u5b89\u74e2\u866b", 
+        "cname": "\u5b89\u74e2bug", 
         "ename": "Ledian", 
         "id": "166", 
         "jname": "\u30ec\u30c7\u30a3\u30a2\u30f3", 
@@ -15254,8 +15254,8 @@
             ]
         }, 
         "type": [
-            "\u866b", 
-            "\u98de\u884c"
+            "bug", 
+            "flying"
         ]
     }, 
     {
@@ -15345,8 +15345,8 @@
             ]
         }, 
         "type": [
-            "\u866b", 
-            "\u6bd2"
+            "bug", 
+            "poison"
         ]
     }, 
     {
@@ -15442,8 +15442,8 @@
             ]
         }, 
         "type": [
-            "\u866b", 
-            "\u6bd2"
+            "bug", 
+            "poison"
         ]
     }, 
     {
@@ -15547,8 +15547,8 @@
             ]
         }, 
         "type": [
-            "\u6bd2", 
-            "\u98de\u884c"
+            "poison", 
+            "flying"
         ]
     }, 
     {
@@ -15640,8 +15640,8 @@
             ]
         }, 
         "type": [
-            "\u6c34", 
-            "\u7535"
+            "water", 
+            "electric"
         ]
     }, 
     {
@@ -15653,7 +15653,7 @@
             "Sp.Def": 76, 
             "Speed": 67
         }, 
-        "cname": "\u7535\u706f\u602a", 
+        "cname": "electric\u706f\u602a", 
         "ename": "Lanturn", 
         "id": "171", 
         "jname": "\u30e9\u30f3\u30bf\u30fc\u30f3", 
@@ -15740,8 +15740,8 @@
             ]
         }, 
         "type": [
-            "\u6c34", 
-            "\u7535"
+            "water", 
+            "electric"
         ]
     }, 
     {
@@ -15827,7 +15827,7 @@
             ]
         }, 
         "type": [
-            "\u7535"
+            "electric"
         ]
     }, 
     {
@@ -16032,7 +16032,7 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c", 
+            "normal", 
             "\u5996\u7cbe"
         ]
     }, 
@@ -16263,7 +16263,7 @@
         }, 
         "type": [
             "\u5996\u7cbe", 
-            "\u98de\u884c"
+            "flying"
         ]
     }, 
     {
@@ -16372,8 +16372,8 @@
             ]
         }, 
         "type": [
-            "\u8d85\u80fd", 
-            "\u98de\u884c"
+            "psychic", 
+            "flying"
         ]
     }, 
     {
@@ -16488,8 +16488,8 @@
             ]
         }, 
         "type": [
-            "\u8d85\u80fd", 
-            "\u98de\u884c"
+            "psychic", 
+            "flying"
         ]
     }, 
     {
@@ -16575,7 +16575,7 @@
             ]
         }, 
         "type": [
-            "\u7535"
+            "electric"
         ]
     }, 
     {
@@ -16672,7 +16672,7 @@
             ]
         }, 
         "type": [
-            "\u7535"
+            "electric"
         ]
     }, 
     {
@@ -16684,7 +16684,7 @@
             "Sp.Def": 90, 
             "Speed": 55
         }, 
-        "cname": "\u7535\u9f99", 
+        "cname": "electricdragon", 
         "ename": "Ampharos", 
         "id": "181", 
         "jname": "\u30c7\u30f3\u30ea\u30e5\u30a6", 
@@ -16777,7 +16777,7 @@
             ]
         }, 
         "type": [
-            "\u7535"
+            "electric"
         ]
     }, 
     {
@@ -16876,7 +16876,7 @@
             ]
         }, 
         "type": [
-            "\u8349"
+            "grass"
         ]
     }, 
     {
@@ -16991,7 +16991,7 @@
             ]
         }, 
         "type": [
-            "\u6c34", 
+            "water", 
             "\u5996\u7cbe"
         ]
     }, 
@@ -17113,7 +17113,7 @@
             ]
         }, 
         "type": [
-            "\u6c34", 
+            "water", 
             "\u5996\u7cbe"
         ]
     }, 
@@ -17222,7 +17222,7 @@
             ]
         }, 
         "type": [
-            "\u5ca9\u77f3"
+            "rock"
         ]
     }, 
     {
@@ -17327,7 +17327,7 @@
             ]
         }, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -17339,7 +17339,7 @@
             "Sp.Def": 55, 
             "Speed": 50
         }, 
-        "cname": "\u6bfd\u5b50\u8349", 
+        "cname": "\u6bfd\u5b50grass", 
         "ename": "Hoppip", 
         "id": "187", 
         "jname": "\u30cf\u30cd\u30c3\u30b3", 
@@ -17416,8 +17416,8 @@
             ]
         }, 
         "type": [
-            "\u8349", 
-            "\u98de\u884c"
+            "grass", 
+            "flying"
         ]
     }, 
     {
@@ -17509,8 +17509,8 @@
             ]
         }, 
         "type": [
-            "\u8349", 
-            "\u98de\u884c"
+            "grass", 
+            "flying"
         ]
     }, 
     {
@@ -17604,8 +17604,8 @@
             ]
         }, 
         "type": [
-            "\u8349", 
-            "\u98de\u884c"
+            "grass", 
+            "flying"
         ]
     }, 
     {
@@ -17721,7 +17721,7 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -17808,7 +17808,7 @@
             ]
         }, 
         "type": [
-            "\u8349"
+            "grass"
         ]
     }, 
     {
@@ -17907,7 +17907,7 @@
             ]
         }, 
         "type": [
-            "\u8349"
+            "grass"
         ]
     }, 
     {
@@ -17993,8 +17993,8 @@
             ]
         }, 
         "type": [
-            "\u866b", 
-            "\u98de\u884c"
+            "bug", 
+            "flying"
         ]
     }, 
     {
@@ -18094,8 +18094,8 @@
             ]
         }, 
         "type": [
-            "\u6c34", 
-            "\u5730\u4e0a"
+            "water", 
+            "ground"
         ]
     }, 
     {
@@ -18208,8 +18208,8 @@
             ]
         }, 
         "type": [
-            "\u6c34", 
-            "\u5730\u4e0a"
+            "water", 
+            "ground"
         ]
     }, 
     {
@@ -18323,7 +18323,7 @@
             ]
         }, 
         "type": [
-            "\u8d85\u80fd"
+            "psychic"
         ]
     }, 
     {
@@ -18538,7 +18538,7 @@
         }, 
         "type": [
             "\u6076", 
-            "\u98de\u884c"
+            "flying"
         ]
     }, 
     {
@@ -18673,8 +18673,8 @@
             ]
         }, 
         "type": [
-            "\u6c34", 
-            "\u8d85\u80fd"
+            "water", 
+            "psychic"
         ]
     }, 
     {
@@ -18692,7 +18692,7 @@
         "jname": "\u30e0\u30a6\u30de", 
         "skills": {}, 
         "type": [
-            "\u5e7d\u7075"
+            "ghost"
         ]
     }, 
     {
@@ -18710,7 +18710,7 @@
         "jname": "\u30a2\u30f3\u30ce\u30fc\u30f3", 
         "skills": {}, 
         "type": [
-            "\u8d85\u80fd"
+            "psychic"
         ]
     }, 
     {
@@ -18744,7 +18744,7 @@
             "transfer": []
         }, 
         "type": [
-            "\u8d85\u80fd"
+            "psychic"
         ]
     }, 
     {
@@ -18855,8 +18855,8 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c", 
-            "\u8d85\u80fd"
+            "normal", 
+            "psychic"
         ]
     }, 
     {
@@ -18946,7 +18946,7 @@
             ]
         }, 
         "type": [
-            "\u866b"
+            "bug"
         ]
     }, 
     {
@@ -19052,7 +19052,7 @@
             ]
         }, 
         "type": [
-            "\u866b", 
+            "bug", 
             "\u94a2"
         ]
     }, 
@@ -19065,7 +19065,7 @@
             "Sp.Def": 65, 
             "Speed": 45
         }, 
-        "cname": "\u571f\u9f99\u5f1f\u5f1f", 
+        "cname": "\u571fdragon\u5f1f\u5f1f", 
         "ename": "Dunsparce", 
         "id": "206", 
         "jname": "\u30ce\u30b3\u30c3\u30c1", 
@@ -19165,7 +19165,7 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -19280,8 +19280,8 @@
             ]
         }, 
         "type": [
-            "\u5730\u4e0a", 
-            "\u98de\u884c"
+            "ground", 
+            "flying"
         ]
     }, 
     {
@@ -19397,7 +19397,7 @@
         }, 
         "type": [
             "\u94a2", 
-            "\u5730\u4e0a"
+            "ground"
         ]
     }, 
     {
@@ -19746,8 +19746,8 @@
             ]
         }, 
         "type": [
-            "\u6c34", 
-            "\u6bd2"
+            "water", 
+            "poison"
         ]
     }, 
     {
@@ -19856,7 +19856,7 @@
             ]
         }, 
         "type": [
-            "\u866b", 
+            "bug", 
             "\u94a2"
         ]
     }, 
@@ -19956,8 +19956,8 @@
             ]
         }, 
         "type": [
-            "\u866b", 
-            "\u5ca9\u77f3"
+            "bug", 
+            "rock"
         ]
     }, 
     {
@@ -20062,8 +20062,8 @@
             ]
         }, 
         "type": [
-            "\u866b", 
-            "\u683c\u6597"
+            "bug", 
+            "fighting"
         ]
     }, 
     {
@@ -20181,7 +20181,7 @@
         }, 
         "type": [
             "\u6076", 
-            "\u51b0"
+            "ice"
         ]
     }, 
     {
@@ -20292,7 +20292,7 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -20415,7 +20415,7 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -20427,7 +20427,7 @@
             "Sp.Def": 40, 
             "Speed": 20
         }, 
-        "cname": "\u7194\u5ca9\u866b", 
+        "cname": "\u7194\u5ca9bug", 
         "ename": "Slugma", 
         "id": "218", 
         "jname": "\u30de\u30b0\u30de\u30c3\u30b0", 
@@ -20504,7 +20504,7 @@
             ]
         }, 
         "type": [
-            "\u708e"
+            "fire"
         ]
     }, 
     {
@@ -20610,8 +20610,8 @@
             ]
         }, 
         "type": [
-            "\u708e", 
-            "\u5ca9\u77f3"
+            "fire", 
+            "rock"
         ]
     }, 
     {
@@ -20702,8 +20702,8 @@
             ]
         }, 
         "type": [
-            "\u51b0", 
-            "\u5730\u4e0a"
+            "ice", 
+            "ground"
         ]
     }, 
     {
@@ -20806,8 +20806,8 @@
             ]
         }, 
         "type": [
-            "\u51b0", 
-            "\u5730\u4e0a"
+            "ice", 
+            "ground"
         ]
     }, 
     {
@@ -20914,8 +20914,8 @@
             ]
         }, 
         "type": [
-            "\u6c34", 
-            "\u5ca9\u77f3"
+            "water", 
+            "rock"
         ]
     }, 
     {
@@ -21010,7 +21010,7 @@
             ]
         }, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -21121,7 +21121,7 @@
             ]
         }, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -21204,8 +21204,8 @@
             ]
         }, 
         "type": [
-            "\u51b0", 
-            "\u98de\u884c"
+            "ice", 
+            "flying"
         ]
     }, 
     {
@@ -21311,8 +21311,8 @@
             ]
         }, 
         "type": [
-            "\u6c34", 
-            "\u98de\u884c"
+            "water", 
+            "flying"
         ]
     }, 
     {
@@ -21411,7 +21411,7 @@
         }, 
         "type": [
             "\u94a2", 
-            "\u98de\u884c"
+            "flying"
         ]
     }, 
     {
@@ -21516,7 +21516,7 @@
         }, 
         "type": [
             "\u6076", 
-            "\u708e"
+            "fire"
         ]
     }, 
     {
@@ -21629,7 +21629,7 @@
         }, 
         "type": [
             "\u6076", 
-            "\u708e"
+            "fire"
         ]
     }, 
     {
@@ -21641,7 +21641,7 @@
             "Sp.Def": 95, 
             "Speed": 85
         }, 
-        "cname": "\u523a\u9f99\u738b", 
+        "cname": "\u523adragon\u738b", 
         "ename": "Kingdra", 
         "id": "230", 
         "jname": "\u30ad\u30f3\u30b0\u30c9\u30e9", 
@@ -21725,8 +21725,8 @@
             ]
         }, 
         "type": [
-            "\u6c34", 
-            "\u9f99"
+            "water", 
+            "dragon"
         ]
     }, 
     {
@@ -21812,7 +21812,7 @@
             ]
         }, 
         "type": [
-            "\u5730\u4e0a"
+            "ground"
         ]
     }, 
     {
@@ -21923,7 +21923,7 @@
             ]
         }, 
         "type": [
-            "\u5730\u4e0a"
+            "ground"
         ]
     }, 
     {
@@ -21935,13 +21935,13 @@
             "Sp.Def": 95, 
             "Speed": 60
         }, 
-        "cname": "3D\u9f99II", 
+        "cname": "3DdragonII", 
         "ename": "Porygon2", 
         "id": "233", 
         "jname": "\u30dd\u30ea\u30b4\u30f32", 
         "skills": {}, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -21959,7 +21959,7 @@
         "jname": "\u30aa\u30c9\u30b7\u30b7", 
         "skills": {}, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -21991,7 +21991,7 @@
             "transfer": []
         }, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -22067,7 +22067,7 @@
             ]
         }, 
         "type": [
-            "\u683c\u6597"
+            "fighting"
         ]
     }, 
     {
@@ -22169,7 +22169,7 @@
             ]
         }, 
         "type": [
-            "\u683c\u6597"
+            "fighting"
         ]
     }, 
     {
@@ -22271,8 +22271,8 @@
             ]
         }, 
         "type": [
-            "\u51b0", 
-            "\u8d85\u80fd"
+            "ice", 
+            "psychic"
         ]
     }, 
     {
@@ -22284,7 +22284,7 @@
             "Sp.Def": 55, 
             "Speed": 95
         }, 
-        "cname": "\u7535\u51fb\u602a", 
+        "cname": "electric\u51fb\u602a", 
         "ename": "Elekid", 
         "id": "239", 
         "jname": "\u30a8\u30ec\u30ad\u30c3\u30c9", 
@@ -22365,7 +22365,7 @@
             ]
         }, 
         "type": [
-            "\u7535"
+            "electric"
         ]
     }, 
     {
@@ -22377,7 +22377,7 @@
             "Sp.Def": 55, 
             "Speed": 83
         }, 
-        "cname": "\u5c0f\u9e2d\u5634\u9f99", 
+        "cname": "\u5c0f\u9e2d\u5634dragon", 
         "ename": "Magby", 
         "id": "240", 
         "jname": "\u30d6\u30d3\u30a3", 
@@ -22457,7 +22457,7 @@
             ]
         }, 
         "type": [
-            "\u708e"
+            "fire"
         ]
     }, 
     {
@@ -22568,7 +22568,7 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -22707,7 +22707,7 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -22725,7 +22725,7 @@
         "jname": "\u30e9\u30a4\u30b3\u30a6", 
         "skills": {}, 
         "type": [
-            "\u7535"
+            "electric"
         ]
     }, 
     {
@@ -22737,13 +22737,13 @@
             "Sp.Def": 75, 
             "Speed": 100
         }, 
-        "cname": "\u708e\u5e1d", 
+        "cname": "fire\u5e1d", 
         "ename": "Entei", 
         "id": "244", 
         "jname": "\u30a8\u30f3\u30c6\u30a4", 
         "skills": {}, 
         "type": [
-            "\u708e"
+            "fire"
         ]
     }, 
     {
@@ -22755,13 +22755,13 @@
             "Sp.Def": 115, 
             "Speed": 85
         }, 
-        "cname": "\u6c34\u541b", 
+        "cname": "water\u541b", 
         "ename": "Suicune", 
         "id": "245", 
         "jname": "\u30b9\u30a4\u30af\u30f3", 
         "skills": {}, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -22858,8 +22858,8 @@
             ]
         }, 
         "type": [
-            "\u5ca9\u77f3", 
-            "\u5730\u4e0a"
+            "rock", 
+            "ground"
         ]
     }, 
     {
@@ -22958,8 +22958,8 @@
             ]
         }, 
         "type": [
-            "\u5ca9\u77f3", 
-            "\u5730\u4e0a"
+            "rock", 
+            "ground"
         ]
     }, 
     {
@@ -23095,7 +23095,7 @@
             ]
         }, 
         "type": [
-            "\u5ca9\u77f3", 
+            "rock", 
             "\u6076"
         ]
     }, 
@@ -23114,8 +23114,8 @@
         "jname": "\u30eb\u30ae\u30a2", 
         "skills": {}, 
         "type": [
-            "\u8d85\u80fd", 
-            "\u98de\u884c"
+            "psychic", 
+            "flying"
         ]
     }, 
     {
@@ -23133,8 +23133,8 @@
         "jname": "\u30db\u30a6\u30aa\u30a6", 
         "skills": {}, 
         "type": [
-            "\u708e", 
-            "\u98de\u884c"
+            "fire", 
+            "flying"
         ]
     }, 
     {
@@ -23152,8 +23152,8 @@
         "jname": "\u30bb\u30ec\u30d3\u30a3", 
         "skills": {}, 
         "type": [
-            "\u8d85\u80fd", 
-            "\u8349"
+            "psychic", 
+            "grass"
         ]
     }, 
     {
@@ -23171,7 +23171,7 @@
         "jname": "\u30ad\u30e2\u30ea", 
         "skills": {}, 
         "type": [
-            "\u8349"
+            "grass"
         ]
     }, 
     {
@@ -23189,7 +23189,7 @@
         "jname": "\u30b8\u30e5\u30d7\u30c8\u30eb", 
         "skills": {}, 
         "type": [
-            "\u8349"
+            "grass"
         ]
     }, 
     {
@@ -23207,7 +23207,7 @@
         "jname": "\u30b8\u30e5\u30ab\u30a4\u30f3", 
         "skills": {}, 
         "type": [
-            "\u8349"
+            "grass"
         ]
     }, 
     {
@@ -23302,7 +23302,7 @@
             ]
         }, 
         "type": [
-            "\u708e"
+            "fire"
         ]
     }, 
     {
@@ -23415,8 +23415,8 @@
             ]
         }, 
         "type": [
-            "\u708e", 
-            "\u683c\u6597"
+            "fire", 
+            "fighting"
         ]
     }, 
     {
@@ -23546,8 +23546,8 @@
             ]
         }, 
         "type": [
-            "\u708e", 
-            "\u683c\u6597"
+            "fire", 
+            "fighting"
         ]
     }, 
     {
@@ -23559,13 +23559,13 @@
             "Sp.Def": 50, 
             "Speed": 40
         }, 
-        "cname": "\u6c34\u8dc3\u9c7c", 
+        "cname": "water\u8dc3\u9c7c", 
         "ename": "Mudkip", 
         "id": "258", 
         "jname": "\u30df\u30ba\u30b4\u30ed\u30a6", 
         "skills": {}, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -23583,8 +23583,8 @@
         "jname": "\u30cc\u30de\u30af\u30ed\u30fc", 
         "skills": {}, 
         "type": [
-            "\u6c34", 
-            "\u5730\u4e0a"
+            "water", 
+            "ground"
         ]
     }, 
     {
@@ -23602,8 +23602,8 @@
         "jname": "\u30e9\u30b0\u30e9\u30fc\u30b8", 
         "skills": {}, 
         "type": [
-            "\u6c34", 
-            "\u5730\u4e0a"
+            "water", 
+            "ground"
         ]
     }, 
     {
@@ -23899,7 +23899,7 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -24013,7 +24013,7 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -24025,7 +24025,7 @@
             "Sp.Def": 30, 
             "Speed": 20
         }, 
-        "cname": "\u523a\u5c3e\u866b", 
+        "cname": "\u523a\u5c3ebug", 
         "ename": "Wurmple", 
         "id": "265", 
         "jname": "\u30b1\u30e0\u30c3\u30bd", 
@@ -24042,7 +24042,7 @@
             ]
         }, 
         "type": [
-            "\u866b"
+            "bug"
         ]
     }, 
     {
@@ -24076,7 +24076,7 @@
             ]
         }, 
         "type": [
-            "\u866b"
+            "bug"
         ]
     }, 
     {
@@ -24161,8 +24161,8 @@
             ]
         }, 
         "type": [
-            "\u866b", 
-            "\u98de\u884c"
+            "bug", 
+            "flying"
         ]
     }, 
     {
@@ -24196,7 +24196,7 @@
             ]
         }, 
         "type": [
-            "\u866b"
+            "bug"
         ]
     }, 
     {
@@ -24208,7 +24208,7 @@
             "Sp.Def": 90, 
             "Speed": 65
         }, 
-        "cname": "\u6bd2\u7c89\u8776", 
+        "cname": "poison\u7c89\u8776", 
         "ename": "Dustox", 
         "id": "269", 
         "jname": "\u30c9\u30af\u30b1\u30a4\u30eb", 
@@ -24283,8 +24283,8 @@
             ]
         }, 
         "type": [
-            "\u866b", 
-            "\u6bd2"
+            "bug", 
+            "poison"
         ]
     }, 
     {
@@ -24371,8 +24371,8 @@
             ]
         }, 
         "type": [
-            "\u6c34", 
-            "\u8349"
+            "water", 
+            "grass"
         ]
     }, 
     {
@@ -24479,8 +24479,8 @@
             ]
         }, 
         "type": [
-            "\u6c34", 
-            "\u8349"
+            "water", 
+            "grass"
         ]
     }, 
     {
@@ -24593,8 +24593,8 @@
             ]
         }, 
         "type": [
-            "\u6c34", 
-            "\u8349"
+            "water", 
+            "grass"
         ]
     }, 
     {
@@ -24675,7 +24675,7 @@
             ]
         }, 
         "type": [
-            "\u8349"
+            "grass"
         ]
     }, 
     {
@@ -24784,7 +24784,7 @@
             ]
         }, 
         "type": [
-            "\u8349", 
+            "grass", 
             "\u6076"
         ]
     }, 
@@ -24908,7 +24908,7 @@
             ]
         }, 
         "type": [
-            "\u8349", 
+            "grass", 
             "\u6076"
         ]
     }, 
@@ -24991,8 +24991,8 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c", 
-            "\u98de\u884c"
+            "normal", 
+            "flying"
         ]
     }, 
     {
@@ -25078,8 +25078,8 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c", 
-            "\u98de\u884c"
+            "normal", 
+            "flying"
         ]
     }, 
     {
@@ -25169,8 +25169,8 @@
             ]
         }, 
         "type": [
-            "\u6c34", 
-            "\u98de\u884c"
+            "water", 
+            "flying"
         ]
     }, 
     {
@@ -25285,8 +25285,8 @@
             ]
         }, 
         "type": [
-            "\u6c34", 
-            "\u98de\u884c"
+            "water", 
+            "flying"
         ]
     }, 
     {
@@ -25400,7 +25400,7 @@
             ]
         }, 
         "type": [
-            "\u8d85\u80fd", 
+            "psychic", 
             "\u5996\u7cbe"
         ]
     }, 
@@ -25518,7 +25518,7 @@
             ]
         }, 
         "type": [
-            "\u8d85\u80fd", 
+            "psychic", 
             "\u5996\u7cbe"
         ]
     }, 
@@ -25649,7 +25649,7 @@
             ]
         }, 
         "type": [
-            "\u8d85\u80fd", 
+            "psychic", 
             "\u5996\u7cbe"
         ]
     }, 
@@ -25731,8 +25731,8 @@
             ]
         }, 
         "type": [
-            "\u866b", 
-            "\u6c34"
+            "bug", 
+            "water"
         ]
     }, 
     {
@@ -25838,8 +25838,8 @@
             ]
         }, 
         "type": [
-            "\u866b", 
-            "\u98de\u884c"
+            "bug", 
+            "flying"
         ]
     }, 
     {
@@ -25918,7 +25918,7 @@
             ]
         }, 
         "type": [
-            "\u8349"
+            "grass"
         ]
     }, 
     {
@@ -26028,8 +26028,8 @@
             ]
         }, 
         "type": [
-            "\u8349", 
-            "\u683c\u6597"
+            "grass", 
+            "fighting"
         ]
     }, 
     {
@@ -26047,7 +26047,7 @@
         "jname": "\u30ca\u30de\u30b1\u30ed", 
         "skills": {}, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -26065,7 +26065,7 @@
         "jname": "\u30e4\u30eb\u30ad\u30e2\u30ce", 
         "skills": {}, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -26083,7 +26083,7 @@
         "jname": "\u30b1\u30c3\u30ad\u30f3\u30b0", 
         "skills": {}, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -26158,8 +26158,8 @@
             ]
         }, 
         "type": [
-            "\u866b", 
-            "\u5730\u4e0a"
+            "bug", 
+            "ground"
         ]
     }, 
     {
@@ -26257,8 +26257,8 @@
             ]
         }, 
         "type": [
-            "\u866b", 
-            "\u98de\u884c"
+            "bug", 
+            "flying"
         ]
     }, 
     {
@@ -26341,8 +26341,8 @@
             ]
         }, 
         "type": [
-            "\u866b", 
-            "\u5e7d\u7075"
+            "bug", 
+            "ghost"
         ]
     }, 
     {
@@ -26430,7 +26430,7 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -26535,7 +26535,7 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -26654,7 +26654,7 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -26757,7 +26757,7 @@
             ]
         }, 
         "type": [
-            "\u683c\u6597"
+            "fighting"
         ]
     }, 
     {
@@ -26868,7 +26868,7 @@
             ]
         }, 
         "type": [
-            "\u683c\u6597"
+            "fighting"
         ]
     }, 
     {
@@ -26953,7 +26953,7 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c", 
+            "normal", 
             "\u5996\u7cbe"
         ]
     }, 
@@ -27050,7 +27050,7 @@
             ]
         }, 
         "type": [
-            "\u5ca9\u77f3"
+            "rock"
         ]
     }, 
     {
@@ -27154,7 +27154,7 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -27266,7 +27266,7 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -27391,7 +27391,7 @@
         }, 
         "type": [
             "\u6076", 
-            "\u5e7d\u7075"
+            "ghost"
         ]
     }, 
     {
@@ -27612,7 +27612,7 @@
         }, 
         "type": [
             "\u94a2", 
-            "\u5ca9\u77f3"
+            "rock"
         ]
     }, 
     {
@@ -27712,7 +27712,7 @@
         }, 
         "type": [
             "\u94a2", 
-            "\u5ca9\u77f3"
+            "rock"
         ]
     }, 
     {
@@ -27847,7 +27847,7 @@
         }, 
         "type": [
             "\u94a2", 
-            "\u5ca9\u77f3"
+            "rock"
         ]
     }, 
     {
@@ -27958,8 +27958,8 @@
             ]
         }, 
         "type": [
-            "\u683c\u6597", 
-            "\u8d85\u80fd"
+            "fighting", 
+            "psychic"
         ]
     }, 
     {
@@ -28079,8 +28079,8 @@
             ]
         }, 
         "type": [
-            "\u683c\u6597", 
-            "\u8d85\u80fd"
+            "fighting", 
+            "psychic"
         ]
     }, 
     {
@@ -28171,7 +28171,7 @@
             ]
         }, 
         "type": [
-            "\u7535"
+            "electric"
         ]
     }, 
     {
@@ -28183,7 +28183,7 @@
             "Sp.Def": 60, 
             "Speed": 105
         }, 
-        "cname": "\u96f7\u7535\u517d", 
+        "cname": "\u96f7electric\u517d", 
         "ename": "Manectric", 
         "id": "310", 
         "jname": "\u30e9\u30a4\u30dc\u30eb\u30c8", 
@@ -28271,7 +28271,7 @@
             ]
         }, 
         "type": [
-            "\u7535"
+            "electric"
         ]
     }, 
     {
@@ -28283,7 +28283,7 @@
             "Sp.Def": 75, 
             "Speed": 95
         }, 
-        "cname": "\u6b63\u7535\u62cd\u62cd", 
+        "cname": "\u6b63electric\u62cd\u62cd", 
         "ename": "Plusle", 
         "id": "311", 
         "jname": "\u30d7\u30e9\u30b9\u30eb", 
@@ -28362,7 +28362,7 @@
             ]
         }, 
         "type": [
-            "\u7535"
+            "electric"
         ]
     }, 
     {
@@ -28374,7 +28374,7 @@
             "Sp.Def": 85, 
             "Speed": 95
         }, 
-        "cname": "\u8d1f\u7535\u62cd\u62cd", 
+        "cname": "\u8d1felectric\u62cd\u62cd", 
         "ename": "Minun", 
         "id": "312", 
         "jname": "\u30de\u30a4\u30ca\u30f3", 
@@ -28454,7 +28454,7 @@
             ]
         }, 
         "type": [
-            "\u7535"
+            "electric"
         ]
     }, 
     {
@@ -28466,7 +28466,7 @@
             "Sp.Def": 75, 
             "Speed": 85
         }, 
-        "cname": "\u7535\u8424\u866b", 
+        "cname": "electric\u8424bug", 
         "ename": "Volbeat", 
         "id": "313", 
         "jname": "\u30d0\u30eb\u30d3\u30fc\u30c8", 
@@ -28549,7 +28549,7 @@
             ]
         }, 
         "type": [
-            "\u866b"
+            "bug"
         ]
     }, 
     {
@@ -28644,7 +28644,7 @@
             ]
         }, 
         "type": [
-            "\u866b"
+            "bug"
         ]
     }, 
     {
@@ -28656,7 +28656,7 @@
             "Sp.Def": 80, 
             "Speed": 65
         }, 
-        "cname": "\u6bd2\u8537\u8587", 
+        "cname": "poison\u8537\u8587", 
         "ename": "Roselia", 
         "id": "315", 
         "jname": "\u30ed\u30bc\u30ea\u30a2", 
@@ -28741,8 +28741,8 @@
             ]
         }, 
         "type": [
-            "\u8349", 
-            "\u6bd2"
+            "grass", 
+            "poison"
         ]
     }, 
     {
@@ -28835,7 +28835,7 @@
             ]
         }, 
         "type": [
-            "\u6bd2"
+            "poison"
         ]
     }, 
     {
@@ -28939,7 +28939,7 @@
             ]
         }, 
         "type": [
-            "\u6bd2"
+            "poison"
         ]
     }, 
     {
@@ -29028,7 +29028,7 @@
             ]
         }, 
         "type": [
-            "\u6c34", 
+            "water", 
             "\u6076"
         ]
     }, 
@@ -29138,7 +29138,7 @@
             ]
         }, 
         "type": [
-            "\u6c34", 
+            "water", 
             "\u6076"
         ]
     }, 
@@ -29230,7 +29230,7 @@
             ]
         }, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -29328,7 +29328,7 @@
             ]
         }, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -29423,8 +29423,8 @@
             ]
         }, 
         "type": [
-            "\u708e", 
-            "\u5730\u4e0a"
+            "fire", 
+            "ground"
         ]
     }, 
     {
@@ -29536,8 +29536,8 @@
             ]
         }, 
         "type": [
-            "\u708e", 
-            "\u5730\u4e0a"
+            "fire", 
+            "ground"
         ]
     }, 
     {
@@ -29638,7 +29638,7 @@
             ]
         }, 
         "type": [
-            "\u708e"
+            "fire"
         ]
     }, 
     {
@@ -29737,7 +29737,7 @@
             ]
         }, 
         "type": [
-            "\u8d85\u80fd"
+            "psychic"
         ]
     }, 
     {
@@ -29852,7 +29852,7 @@
             ]
         }, 
         "type": [
-            "\u8d85\u80fd"
+            "psychic"
         ]
     }, 
     {
@@ -29964,7 +29964,7 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -30052,7 +30052,7 @@
             ]
         }, 
         "type": [
-            "\u5730\u4e0a"
+            "ground"
         ]
     }, 
     {
@@ -30064,7 +30064,7 @@
             "Sp.Def": 50, 
             "Speed": 70
         }, 
-        "cname": "\u8d85\u97f3\u6ce2\u5e7c\u866b", 
+        "cname": "\u8d85\u97f3\u6ce2\u5e7cbug", 
         "ename": "Vibrava", 
         "id": "329", 
         "jname": "\u30d3\u30d6\u30e9\u30fc\u30d0", 
@@ -30161,8 +30161,8 @@
             ]
         }, 
         "type": [
-            "\u5730\u4e0a", 
-            "\u9f99"
+            "ground", 
+            "dragon"
         ]
     }, 
     {
@@ -30286,8 +30286,8 @@
             ]
         }, 
         "type": [
-            "\u5730\u4e0a", 
-            "\u9f99"
+            "ground", 
+            "dragon"
         ]
     }, 
     {
@@ -30389,7 +30389,7 @@
             ]
         }, 
         "type": [
-            "\u8349"
+            "grass"
         ]
     }, 
     {
@@ -30503,7 +30503,7 @@
             ]
         }, 
         "type": [
-            "\u8349", 
+            "grass", 
             "\u6076"
         ]
     }, 
@@ -30596,8 +30596,8 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c", 
-            "\u98de\u884c"
+            "normal", 
+            "flying"
         ]
     }, 
     {
@@ -30713,8 +30713,8 @@
             ]
         }, 
         "type": [
-            "\u9f99", 
-            "\u98de\u884c"
+            "dragon", 
+            "flying"
         ]
     }, 
     {
@@ -30835,7 +30835,7 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -30936,7 +30936,7 @@
             ]
         }, 
         "type": [
-            "\u6bd2"
+            "poison"
         ]
     }, 
     {
@@ -31040,8 +31040,8 @@
             ]
         }, 
         "type": [
-            "\u5ca9\u77f3", 
-            "\u8d85\u80fd"
+            "rock", 
+            "psychic"
         ]
     }, 
     {
@@ -31149,8 +31149,8 @@
             ]
         }, 
         "type": [
-            "\u5ca9\u77f3", 
-            "\u8d85\u80fd"
+            "rock", 
+            "psychic"
         ]
     }, 
     {
@@ -31233,8 +31233,8 @@
             ]
         }, 
         "type": [
-            "\u6c34", 
-            "\u5730\u4e0a"
+            "water", 
+            "ground"
         ]
     }, 
     {
@@ -31327,8 +31327,8 @@
             ]
         }, 
         "type": [
-            "\u6c34", 
-            "\u5730\u4e0a"
+            "water", 
+            "ground"
         ]
     }, 
     {
@@ -31340,7 +31340,7 @@
             "Sp.Def": 35, 
             "Speed": 35
         }, 
-        "cname": "\u9f99\u867e\u5c0f\u5175", 
+        "cname": "dragon\u867e\u5c0f\u5175", 
         "ename": "Corphish", 
         "id": "341", 
         "jname": "\u30d8\u30a4\u30ac\u30cb", 
@@ -31428,7 +31428,7 @@
             ]
         }, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -31440,7 +31440,7 @@
             "Sp.Def": 55, 
             "Speed": 55
         }, 
-        "cname": "\u94c1\u87af\u9f99\u867e", 
+        "cname": "\u94c1\u87afdragon\u867e", 
         "ename": "Crawdaunt", 
         "id": "342", 
         "jname": "\u30b7\u30b6\u30ea\u30ac\u30fc", 
@@ -31542,7 +31542,7 @@
             ]
         }, 
         "type": [
-            "\u6c34", 
+            "water", 
             "\u6076"
         ]
     }, 
@@ -31561,8 +31561,8 @@
         "jname": "\u30e4\u30b8\u30ed\u30f3", 
         "skills": {}, 
         "type": [
-            "\u5730\u4e0a", 
-            "\u8d85\u80fd"
+            "ground", 
+            "psychic"
         ]
     }, 
     {
@@ -31580,8 +31580,8 @@
         "jname": "\u30cd\u30f3\u30c9\u30fc\u30eb", 
         "skills": {}, 
         "type": [
-            "\u5730\u4e0a", 
-            "\u8d85\u80fd"
+            "ground", 
+            "psychic"
         ]
     }, 
     {
@@ -31669,8 +31669,8 @@
             ]
         }, 
         "type": [
-            "\u5ca9\u77f3", 
-            "\u8349"
+            "rock", 
+            "grass"
         ]
     }, 
     {
@@ -31773,8 +31773,8 @@
             ]
         }, 
         "type": [
-            "\u5ca9\u77f3", 
-            "\u8349"
+            "rock", 
+            "grass"
         ]
     }, 
     {
@@ -31786,7 +31786,7 @@
             "Sp.Def": 50, 
             "Speed": 75
         }, 
-        "cname": "\u592a\u53e4\u7fbd\u866b", 
+        "cname": "\u592a\u53e4\u7fbdbug", 
         "ename": "Anorith", 
         "id": "347", 
         "jname": "\u30a2\u30ce\u30d7\u30b9", 
@@ -31860,8 +31860,8 @@
             ]
         }, 
         "type": [
-            "\u5ca9\u77f3", 
-            "\u866b"
+            "rock", 
+            "bug"
         ]
     }, 
     {
@@ -31962,8 +31962,8 @@
             ]
         }, 
         "type": [
-            "\u5ca9\u77f3", 
-            "\u866b"
+            "rock", 
+            "bug"
         ]
     }, 
     {
@@ -31981,7 +31981,7 @@
         "jname": "\u30d2\u30f3\u30d0\u30b9", 
         "skills": {}, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -31999,7 +31999,7 @@
         "jname": "\u30df\u30ed\u30ab\u30ed\u30b9", 
         "skills": {}, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -32037,7 +32037,7 @@
         ], 
         "skills": {}, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -32049,7 +32049,7 @@
             "Sp.Def": 120, 
             "Speed": 40
         }, 
-        "cname": "\u53d8\u9690\u9f99", 
+        "cname": "\u53d8\u9690dragon", 
         "ename": "Kecleon", 
         "id": "352", 
         "jname": "\u30ab\u30af\u30ec\u30aa\u30f3", 
@@ -32164,7 +32164,7 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -32265,7 +32265,7 @@
             ]
         }, 
         "type": [
-            "\u5e7d\u7075"
+            "ghost"
         ]
     }, 
     {
@@ -32374,7 +32374,7 @@
             ]
         }, 
         "type": [
-            "\u5e7d\u7075"
+            "ghost"
         ]
     }, 
     {
@@ -32471,7 +32471,7 @@
             ]
         }, 
         "type": [
-            "\u5e7d\u7075"
+            "ghost"
         ]
     }, 
     {
@@ -32585,7 +32585,7 @@
             ]
         }, 
         "type": [
-            "\u5e7d\u7075"
+            "ghost"
         ]
     }, 
     {
@@ -32597,7 +32597,7 @@
             "Sp.Def": 87, 
             "Speed": 51
         }, 
-        "cname": "\u70ed\u5e26\u9f99", 
+        "cname": "\u70ed\u5e26dragon", 
         "ename": "Tropius", 
         "id": "357", 
         "jname": "\u30c8\u30ed\u30d4\u30a6\u30b9", 
@@ -32689,8 +32689,8 @@
             ]
         }, 
         "type": [
-            "\u8349", 
-            "\u98de\u884c"
+            "grass", 
+            "flying"
         ]
     }, 
     {
@@ -32802,7 +32802,7 @@
             ]
         }, 
         "type": [
-            "\u8d85\u80fd"
+            "psychic"
         ]
     }, 
     {
@@ -32970,7 +32970,7 @@
             "transfer": []
         }, 
         "type": [
-            "\u8d85\u80fd"
+            "psychic"
         ]
     }, 
     {
@@ -33047,7 +33047,7 @@
             ]
         }, 
         "type": [
-            "\u51b0"
+            "ice"
         ]
     }, 
     {
@@ -33059,7 +33059,7 @@
             "Sp.Def": 80, 
             "Speed": 80
         }, 
-        "cname": "\u51b0\u9b3c\u62a4", 
+        "cname": "ice\u9b3c\u62a4", 
         "ename": "Glalie", 
         "id": "362", 
         "jname": "\u30aa\u30cb\u30b4\u30fc\u30ea", 
@@ -33144,7 +33144,7 @@
             ]
         }, 
         "type": [
-            "\u51b0"
+            "ice"
         ]
     }, 
     {
@@ -33236,8 +33236,8 @@
             ]
         }, 
         "type": [
-            "\u51b0", 
-            "\u6c34"
+            "ice", 
+            "water"
         ]
     }, 
     {
@@ -33334,8 +33334,8 @@
             ]
         }, 
         "type": [
-            "\u51b0", 
-            "\u6c34"
+            "ice", 
+            "water"
         ]
     }, 
     {
@@ -33439,8 +33439,8 @@
             ]
         }, 
         "type": [
-            "\u51b0", 
-            "\u6c34"
+            "ice", 
+            "water"
         ]
     }, 
     {
@@ -33510,7 +33510,7 @@
             ]
         }, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -33600,7 +33600,7 @@
             ]
         }, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -33691,7 +33691,7 @@
             ]
         }, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -33792,8 +33792,8 @@
             ]
         }, 
         "type": [
-            "\u6c34", 
-            "\u5ca9\u77f3"
+            "water", 
+            "rock"
         ]
     }, 
     {
@@ -33875,7 +33875,7 @@
             ]
         }, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -33887,7 +33887,7 @@
             "Sp.Def": 30, 
             "Speed": 50
         }, 
-        "cname": "\u5b9d\u8d1d\u9f99", 
+        "cname": "\u5b9d\u8d1ddragon", 
         "ename": "Bagon", 
         "id": "371", 
         "jname": "\u30bf\u30c4\u30d9\u30a4", 
@@ -33964,7 +33964,7 @@
             ]
         }, 
         "type": [
-            "\u9f99"
+            "dragon"
         ]
     }, 
     {
@@ -33976,7 +33976,7 @@
             "Sp.Def": 50, 
             "Speed": 50
         }, 
-        "cname": "\u7532\u58f3\u9f99", 
+        "cname": "\u7532\u58f3dragon", 
         "ename": "Shelgon", 
         "id": "372", 
         "jname": "\u30b3\u30e2\u30eb\u30fc", 
@@ -34058,7 +34058,7 @@
             ]
         }, 
         "type": [
-            "\u9f99"
+            "dragon"
         ]
     }, 
     {
@@ -34170,8 +34170,8 @@
             ]
         }, 
         "type": [
-            "\u9f99", 
-            "\u98de\u884c"
+            "dragon", 
+            "flying"
         ]
     }, 
     {
@@ -34199,7 +34199,7 @@
         }, 
         "type": [
             "\u94a2", 
-            "\u8d85\u80fd"
+            "psychic"
         ]
     }, 
     {
@@ -34295,7 +34295,7 @@
         }, 
         "type": [
             "\u94a2", 
-            "\u8d85\u80fd"
+            "psychic"
         ]
     }, 
     {
@@ -34394,7 +34394,7 @@
         }, 
         "type": [
             "\u94a2", 
-            "\u8d85\u80fd"
+            "psychic"
         ]
     }, 
     {
@@ -34412,7 +34412,7 @@
         "jname": "\u30ec\u30b8\u30ed\u30c3\u30af", 
         "skills": {}, 
         "type": [
-            "\u5ca9\u77f3"
+            "rock"
         ]
     }, 
     {
@@ -34430,7 +34430,7 @@
         "jname": "\u30ec\u30b8\u30a2\u30a4\u30b9", 
         "skills": {}, 
         "type": [
-            "\u51b0"
+            "ice"
         ]
     }, 
     {
@@ -34466,8 +34466,8 @@
         "jname": "\u30e9\u30c6\u30a3\u30a2\u30b9", 
         "skills": {}, 
         "type": [
-            "\u9f99", 
-            "\u8d85\u80fd"
+            "dragon", 
+            "psychic"
         ]
     }, 
     {
@@ -34485,8 +34485,8 @@
         "jname": "\u30e9\u30c6\u30a3\u30aa\u30b9", 
         "skills": {}, 
         "type": [
-            "\u9f99", 
-            "\u8d85\u80fd"
+            "dragon", 
+            "psychic"
         ]
     }, 
     {
@@ -34504,7 +34504,7 @@
         "jname": "\u30ab\u30a4\u30aa\u30fc\u30ac", 
         "skills": {}, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -34522,7 +34522,7 @@
         "jname": "\u30b0\u30e9\u30fc\u30c9\u30f3", 
         "skills": {}, 
         "type": [
-            "\u5730\u4e0a"
+            "ground"
         ]
     }, 
     {
@@ -34540,8 +34540,8 @@
         "jname": "\u30ec\u30c3\u30af\u30a6\u30b6", 
         "skills": {}, 
         "type": [
-            "\u9f99", 
-            "\u98de\u884c"
+            "dragon", 
+            "flying"
         ]
     }, 
     {
@@ -34560,7 +34560,7 @@
         "skills": {}, 
         "type": [
             "\u94a2", 
-            "\u8d85\u80fd"
+            "psychic"
         ]
     }, 
     {
@@ -34598,7 +34598,7 @@
         ], 
         "skills": {}, 
         "type": [
-            "\u8d85\u80fd"
+            "psychic"
         ]
     }, 
     {
@@ -34610,13 +34610,13 @@
             "Sp.Def": 55, 
             "Speed": 31
         }, 
-        "cname": "\u8349\u82d7\u9f9f", 
+        "cname": "grass\u82d7\u9f9f", 
         "ename": "Turtwig", 
         "id": "387", 
         "jname": "\u30ca\u30a8\u30c8\u30eb", 
         "skills": {}, 
         "type": [
-            "\u8349"
+            "grass"
         ]
     }, 
     {
@@ -34634,7 +34634,7 @@
         "jname": "\u30cf\u30e4\u30b7\u30ac\u30e1", 
         "skills": {}, 
         "type": [
-            "\u8349"
+            "grass"
         ]
     }, 
     {
@@ -34652,8 +34652,8 @@
         "jname": "\u30c9\u30c0\u30a4\u30c8\u30b9", 
         "skills": {}, 
         "type": [
-            "\u8349", 
-            "\u5730\u4e0a"
+            "grass", 
+            "ground"
         ]
     }, 
     {
@@ -34671,7 +34671,7 @@
         "jname": "\u30d2\u30b3\u30b6\u30eb", 
         "skills": {}, 
         "type": [
-            "\u708e"
+            "fire"
         ]
     }, 
     {
@@ -34689,8 +34689,8 @@
         "jname": "\u30e2\u30a6\u30ab\u30b6\u30eb", 
         "skills": {}, 
         "type": [
-            "\u708e", 
-            "\u683c\u6597"
+            "fire", 
+            "fighting"
         ]
     }, 
     {
@@ -34708,8 +34708,8 @@
         "jname": "\u30b4\u30a6\u30ab\u30b6\u30eb", 
         "skills": {}, 
         "type": [
-            "\u708e", 
-            "\u683c\u6597"
+            "fire", 
+            "fighting"
         ]
     }, 
     {
@@ -34727,7 +34727,7 @@
         "jname": "\u30dd\u30c3\u30c1\u30e3\u30de", 
         "skills": {}, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -34745,7 +34745,7 @@
         "jname": "\u30dd\u30c3\u30bf\u30a4\u30b7", 
         "skills": {}, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -34763,7 +34763,7 @@
         "jname": "\u30a8\u30f3\u30da\u30eb\u30c8", 
         "skills": {}, 
         "type": [
-            "\u6c34", 
+            "water", 
             "\u94a2"
         ]
     }, 
@@ -34850,8 +34850,8 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c", 
-            "\u98de\u884c"
+            "normal", 
+            "flying"
         ]
     }, 
     {
@@ -34939,8 +34939,8 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c", 
-            "\u98de\u884c"
+            "normal", 
+            "flying"
         ]
     }, 
     {
@@ -35033,8 +35033,8 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c", 
-            "\u98de\u884c"
+            "normal", 
+            "flying"
         ]
     }, 
     {
@@ -35129,7 +35129,7 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -35239,8 +35239,8 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c", 
-            "\u6c34"
+            "normal", 
+            "water"
         ]
     }, 
     {
@@ -35258,7 +35258,7 @@
         "jname": "\u30b3\u30ed\u30dc\u30fc\u30b7", 
         "skills": {}, 
         "type": [
-            "\u866b"
+            "bug"
         ]
     }, 
     {
@@ -35276,7 +35276,7 @@
         "jname": "\u30b3\u30ed\u30c8\u30c3\u30af", 
         "skills": {}, 
         "type": [
-            "\u866b"
+            "bug"
         ]
     }, 
     {
@@ -35364,7 +35364,7 @@
             ]
         }, 
         "type": [
-            "\u7535"
+            "electric"
         ]
     }, 
     {
@@ -35455,7 +35455,7 @@
             ]
         }, 
         "type": [
-            "\u7535"
+            "electric"
         ]
     }, 
     {
@@ -35552,7 +35552,7 @@
             ]
         }, 
         "type": [
-            "\u7535"
+            "electric"
         ]
     }, 
     {
@@ -35633,8 +35633,8 @@
             ]
         }, 
         "type": [
-            "\u8349", 
-            "\u6bd2"
+            "grass", 
+            "poison"
         ]
     }, 
     {
@@ -35736,8 +35736,8 @@
             ]
         }, 
         "type": [
-            "\u8349", 
-            "\u6bd2"
+            "grass", 
+            "poison"
         ]
     }, 
     {
@@ -35749,7 +35749,7 @@
             "Sp.Def": 30, 
             "Speed": 58
         }, 
-        "cname": "\u5934\u76d6\u9f99", 
+        "cname": "\u5934\u76d6dragon", 
         "ename": "Cranidos", 
         "id": "408", 
         "jname": "\u30ba\u30ac\u30a4\u30c9\u30b9", 
@@ -35842,7 +35842,7 @@
             ]
         }, 
         "type": [
-            "\u5ca9\u77f3"
+            "rock"
         ]
     }, 
     {
@@ -35854,7 +35854,7 @@
             "Sp.Def": 50, 
             "Speed": 58
         }, 
-        "cname": "\u6218\u69cc\u9f99", 
+        "cname": "\u6218\u69ccdragon", 
         "ename": "Rampardos", 
         "id": "409", 
         "jname": "\u30e9\u30e0\u30d1\u30eb\u30c9", 
@@ -35959,7 +35959,7 @@
             ]
         }, 
         "type": [
-            "\u5ca9\u77f3"
+            "rock"
         ]
     }, 
     {
@@ -35971,7 +35971,7 @@
             "Sp.Def": 88, 
             "Speed": 30
         }, 
-        "cname": "\u76fe\u7532\u9f99", 
+        "cname": "\u76fe\u7532dragon", 
         "ename": "Shieldon", 
         "id": "410", 
         "jname": "\u30bf\u30c6\u30c8\u30d7\u30b9", 
@@ -36056,7 +36056,7 @@
             ]
         }, 
         "type": [
-            "\u5ca9\u77f3", 
+            "rock", 
             "\u94a2"
         ]
     }, 
@@ -36069,7 +36069,7 @@
             "Sp.Def": 138, 
             "Speed": 30
         }, 
-        "cname": "\u62a4\u57ce\u9f99", 
+        "cname": "\u62a4\u57cedragon", 
         "ename": "Bastiodon", 
         "id": "411", 
         "jname": "\u30c8\u30ea\u30c7\u30d7\u30b9", 
@@ -36162,7 +36162,7 @@
             ]
         }, 
         "type": [
-            "\u5ca9\u77f3", 
+            "rock", 
             "\u94a2"
         ]
     }, 
@@ -36175,7 +36175,7 @@
             "Sp.Def": 45, 
             "Speed": 36
         }, 
-        "cname": "\u7ed3\u8349\u513f", 
+        "cname": "\u7ed3grass\u513f", 
         "ename": "Burmy", 
         "id": "412", 
         "jname": "\u30df\u30ce\u30e0\u30c3\u30c1", 
@@ -36210,7 +36210,7 @@
             ]
         }, 
         "type": [
-            "\u866b"
+            "bug"
         ]
     }, 
     {
@@ -36222,7 +36222,7 @@
             "Sp.Def": 105, 
             "Speed": 36
         }, 
-        "cname": "\u7ed3\u8349\u8d35\u5987", 
+        "cname": "\u7ed3grass\u8d35\u5987", 
         "ename": "Wormadam", 
         "id": "413", 
         "jname": "\u30df\u30ce\u30de\u30c0\u30e0", 
@@ -36316,8 +36316,8 @@
             ]
         }, 
         "type": [
-            "\u866b", 
-            "\u8349"
+            "bug", 
+            "grass"
         ]
     }, 
     {
@@ -36401,8 +36401,8 @@
             ]
         }, 
         "type": [
-            "\u866b", 
-            "\u98de\u884c"
+            "bug", 
+            "flying"
         ]
     }, 
     {
@@ -36432,8 +36432,8 @@
             ]
         }, 
         "type": [
-            "\u866b", 
-            "\u98de\u884c"
+            "bug", 
+            "flying"
         ]
     }, 
     {
@@ -36525,8 +36525,8 @@
             ]
         }, 
         "type": [
-            "\u866b", 
-            "\u98de\u884c"
+            "bug", 
+            "flying"
         ]
     }, 
     {
@@ -36620,7 +36620,7 @@
             ]
         }, 
         "type": [
-            "\u7535"
+            "electric"
         ]
     }, 
     {
@@ -36716,7 +36716,7 @@
             ]
         }, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -36825,7 +36825,7 @@
             ]
         }, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -36843,7 +36843,7 @@
         "jname": "\u30c1\u30a7\u30ea\u30f3\u30dc", 
         "skills": {}, 
         "type": [
-            "\u8349"
+            "grass"
         ]
     }, 
     {
@@ -36861,7 +36861,7 @@
         "jname": "\u30c1\u30a7\u30ea\u30e0", 
         "skills": {}, 
         "type": [
-            "\u8349"
+            "grass"
         ]
     }, 
     {
@@ -36953,7 +36953,7 @@
             ]
         }, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -37065,8 +37065,8 @@
             ]
         }, 
         "type": [
-            "\u6c34", 
-            "\u5730\u4e0a"
+            "water", 
+            "ground"
         ]
     }, 
     {
@@ -37186,7 +37186,7 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -37289,8 +37289,8 @@
             ]
         }, 
         "type": [
-            "\u5e7d\u7075", 
-            "\u98de\u884c"
+            "ghost", 
+            "flying"
         ]
     }, 
     {
@@ -37400,8 +37400,8 @@
             ]
         }, 
         "type": [
-            "\u5e7d\u7075", 
-            "\u98de\u884c"
+            "ghost", 
+            "flying"
         ]
     }, 
     {
@@ -37419,7 +37419,7 @@
         "jname": "\u30df\u30df\u30ed\u30eb", 
         "skills": {}, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -37437,7 +37437,7 @@
         "jname": "\u30df\u30df\u30ed\u30c3\u30d7", 
         "skills": {}, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -37455,7 +37455,7 @@
         "jname": "\u30e0\u30a6\u30de\u30fc\u30b8", 
         "skills": {}, 
         "type": [
-            "\u5e7d\u7075"
+            "ghost"
         ]
     }, 
     {
@@ -37572,7 +37572,7 @@
         }, 
         "type": [
             "\u6076", 
-            "\u98de\u884c"
+            "flying"
         ]
     }, 
     {
@@ -37590,7 +37590,7 @@
         "jname": "\u30cb\u30e3\u30eb\u30de\u30fc", 
         "skills": {}, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -37608,7 +37608,7 @@
         "jname": "\u30d6\u30cb\u30e3\u30c3\u30c8", 
         "skills": {}, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -37705,7 +37705,7 @@
             ]
         }, 
         "type": [
-            "\u8d85\u80fd"
+            "psychic"
         ]
     }, 
     {
@@ -37801,7 +37801,7 @@
             ]
         }, 
         "type": [
-            "\u6bd2", 
+            "poison", 
             "\u6076"
         ]
     }, 
@@ -37904,7 +37904,7 @@
             ]
         }, 
         "type": [
-            "\u6bd2", 
+            "poison", 
             "\u6076"
         ]
     }, 
@@ -37997,7 +37997,7 @@
         }, 
         "type": [
             "\u94a2", 
-            "\u8d85\u80fd"
+            "psychic"
         ]
     }, 
     {
@@ -38101,7 +38101,7 @@
         }, 
         "type": [
             "\u94a2", 
-            "\u8d85\u80fd"
+            "psychic"
         ]
     }, 
     {
@@ -38189,7 +38189,7 @@
             ]
         }, 
         "type": [
-            "\u5ca9\u77f3"
+            "rock"
         ]
     }, 
     {
@@ -38305,7 +38305,7 @@
             ]
         }, 
         "type": [
-            "\u8d85\u80fd", 
+            "psychic", 
             "\u5996\u7cbe"
         ]
     }, 
@@ -38395,7 +38395,7 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -38488,8 +38488,8 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c", 
-            "\u98de\u884c"
+            "normal", 
+            "flying"
         ]
     }, 
     {
@@ -38586,7 +38586,7 @@
             ]
         }, 
         "type": [
-            "\u5e7d\u7075", 
+            "ghost", 
             "\u6076"
         ]
     }, 
@@ -38683,8 +38683,8 @@
             ]
         }, 
         "type": [
-            "\u9f99", 
-            "\u5730\u4e0a"
+            "dragon", 
+            "ground"
         ]
     }, 
     {
@@ -38782,8 +38782,8 @@
             ]
         }, 
         "type": [
-            "\u9f99", 
-            "\u5730\u4e0a"
+            "dragon", 
+            "ground"
         ]
     }, 
     {
@@ -38896,8 +38896,8 @@
             ]
         }, 
         "type": [
-            "\u9f99", 
-            "\u5730\u4e0a"
+            "dragon", 
+            "ground"
         ]
     }, 
     {
@@ -39015,7 +39015,7 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -39118,7 +39118,7 @@
             ]
         }, 
         "type": [
-            "\u683c\u6597"
+            "fighting"
         ]
     }, 
     {
@@ -39253,7 +39253,7 @@
             ]
         }, 
         "type": [
-            "\u683c\u6597", 
+            "fighting", 
             "\u94a2"
         ]
     }, 
@@ -39336,7 +39336,7 @@
             ]
         }, 
         "type": [
-            "\u5730\u4e0a"
+            "ground"
         ]
     }, 
     {
@@ -39427,7 +39427,7 @@
             ]
         }, 
         "type": [
-            "\u5730\u4e0a"
+            "ground"
         ]
     }, 
     {
@@ -39529,8 +39529,8 @@
             ]
         }, 
         "type": [
-            "\u6bd2", 
-            "\u866b"
+            "poison", 
+            "bug"
         ]
     }, 
     {
@@ -39542,7 +39542,7 @@
             "Sp.Def": 75, 
             "Speed": 95
         }, 
-        "cname": "\u9f99\u738b\u874e", 
+        "cname": "dragon\u738b\u874e", 
         "ename": "Drapion", 
         "id": "452", 
         "jname": "\u30c9\u30e9\u30d4\u30aa\u30f3", 
@@ -39644,7 +39644,7 @@
             ]
         }, 
         "type": [
-            "\u6bd2", 
+            "poison", 
             "\u6076"
         ]
     }, 
@@ -39766,8 +39766,8 @@
             ]
         }, 
         "type": [
-            "\u6bd2", 
-            "\u683c\u6597"
+            "poison", 
+            "fighting"
         ]
     }, 
     {
@@ -39779,7 +39779,7 @@
             "Sp.Def": 65, 
             "Speed": 85
         }, 
-        "cname": "\u6bd2\u9ab7\u86d9", 
+        "cname": "poison\u9ab7\u86d9", 
         "ename": "Toxicroak", 
         "id": "454", 
         "jname": "\u30c9\u30af\u30ed\u30c3\u30b0", 
@@ -39895,8 +39895,8 @@
             ]
         }, 
         "type": [
-            "\u6bd2", 
-            "\u683c\u6597"
+            "poison", 
+            "fighting"
         ]
     }, 
     {
@@ -39987,7 +39987,7 @@
             ]
         }, 
         "type": [
-            "\u8349"
+            "grass"
         ]
     }, 
     {
@@ -40005,7 +40005,7 @@
         "jname": "\u30b1\u30a4\u30b3\u30a6\u30aa", 
         "skills": {}, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -40023,7 +40023,7 @@
         "jname": "\u30cd\u30aa\u30e9\u30f3\u30c8", 
         "skills": {}, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -40112,8 +40112,8 @@
             ]
         }, 
         "type": [
-            "\u6c34", 
-            "\u98de\u884c"
+            "water", 
+            "flying"
         ]
     }, 
     {
@@ -40201,8 +40201,8 @@
             ]
         }, 
         "type": [
-            "\u8349", 
-            "\u51b0"
+            "grass", 
+            "ice"
         ]
     }, 
     {
@@ -40306,8 +40306,8 @@
             ]
         }, 
         "type": [
-            "\u8349", 
-            "\u51b0"
+            "grass", 
+            "ice"
         ]
     }, 
     {
@@ -40438,7 +40438,7 @@
         }, 
         "type": [
             "\u6076", 
-            "\u51b0"
+            "ice"
         ]
     }, 
     {
@@ -40531,7 +40531,7 @@
             ]
         }, 
         "type": [
-            "\u7535", 
+            "electric", 
             "\u94a2"
         ]
     }, 
@@ -40655,7 +40655,7 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -40667,7 +40667,7 @@
             "Sp.Def": 55, 
             "Speed": 40
         }, 
-        "cname": "\u8d85\u94c1\u66b4\u9f99", 
+        "cname": "\u8d85\u94c1\u66b4dragon", 
         "ename": "Rhyperior", 
         "id": "464", 
         "jname": "\u30c9\u30b5\u30a4\u30c9\u30f3", 
@@ -40796,8 +40796,8 @@
             ]
         }, 
         "type": [
-            "\u5730\u4e0a", 
-            "\u5ca9\u77f3"
+            "ground", 
+            "rock"
         ]
     }, 
     {
@@ -40908,7 +40908,7 @@
             ]
         }, 
         "type": [
-            "\u8349"
+            "grass"
         ]
     }, 
     {
@@ -40920,7 +40920,7 @@
             "Sp.Def": 85, 
             "Speed": 95
         }, 
-        "cname": "\u7535\u51fb\u9b54\u517d", 
+        "cname": "electric\u51fb\u9b54\u517d", 
         "ename": "Electivire", 
         "id": "466", 
         "jname": "\u30a8\u30ec\u30ad\u30d6\u30eb", 
@@ -41021,7 +41021,7 @@
             ]
         }, 
         "type": [
-            "\u7535"
+            "electric"
         ]
     }, 
     {
@@ -41033,7 +41033,7 @@
             "Sp.Def": 95, 
             "Speed": 83
         }, 
-        "cname": "\u9e2d\u5634\u7130\u9f99", 
+        "cname": "\u9e2d\u5634\u7130dragon", 
         "ename": "Magmortar", 
         "id": "467", 
         "jname": "\u30d6\u30fc\u30d0\u30fc\u30f3", 
@@ -41130,7 +41130,7 @@
             ]
         }, 
         "type": [
-            "\u708e"
+            "fire"
         ]
     }, 
     {
@@ -41261,7 +41261,7 @@
         }, 
         "type": [
             "\u5996\u7cbe", 
-            "\u98de\u884c"
+            "flying"
         ]
     }, 
     {
@@ -41360,8 +41360,8 @@
             ]
         }, 
         "type": [
-            "\u866b", 
-            "\u98de\u884c"
+            "bug", 
+            "flying"
         ]
     }, 
     {
@@ -41472,7 +41472,7 @@
             ]
         }, 
         "type": [
-            "\u8349"
+            "grass"
         ]
     }, 
     {
@@ -41484,7 +41484,7 @@
             "Sp.Def": 95, 
             "Speed": 65
         }, 
-        "cname": "\u51b0\u7cbe\u7075", 
+        "cname": "ice\u7cbe\u7075", 
         "ename": "Glaceon", 
         "id": "471", 
         "jname": "\u30b0\u30ec\u30a4\u30b7\u30a2", 
@@ -41578,7 +41578,7 @@
             ]
         }, 
         "type": [
-            "\u51b0"
+            "ice"
         ]
     }, 
     {
@@ -41707,8 +41707,8 @@
             ]
         }, 
         "type": [
-            "\u5730\u4e0a", 
-            "\u98de\u884c"
+            "ground", 
+            "flying"
         ]
     }, 
     {
@@ -41819,8 +41819,8 @@
             ]
         }, 
         "type": [
-            "\u51b0", 
-            "\u5730\u4e0a"
+            "ice", 
+            "ground"
         ]
     }, 
     {
@@ -41832,13 +41832,13 @@
             "Sp.Def": 75, 
             "Speed": 90
         }, 
-        "cname": "3D\u9f99Z", 
+        "cname": "3DdragonZ", 
         "ename": "Porygon-Z", 
         "id": "474", 
         "jname": "\u30dd\u30ea\u30b4\u30f3Z", 
         "skills": {}, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -41996,8 +41996,8 @@
             ]
         }, 
         "type": [
-            "\u8d85\u80fd", 
-            "\u683c\u6597"
+            "psychic", 
+            "fighting"
         ]
     }, 
     {
@@ -42103,7 +42103,7 @@
             ]
         }, 
         "type": [
-            "\u5ca9\u77f3", 
+            "rock", 
             "\u94a2"
         ]
     }, 
@@ -42218,7 +42218,7 @@
             ]
         }, 
         "type": [
-            "\u5e7d\u7075"
+            "ghost"
         ]
     }, 
     {
@@ -42325,8 +42325,8 @@
             ]
         }, 
         "type": [
-            "\u51b0", 
-            "\u5e7d\u7075"
+            "ice", 
+            "ghost"
         ]
     }, 
     {
@@ -42443,8 +42443,8 @@
             ]
         }, 
         "type": [
-            "\u7535", 
-            "\u5e7d\u7075"
+            "electric", 
+            "ghost"
         ]
     }, 
     {
@@ -42462,7 +42462,7 @@
         "jname": "\u30e6\u30af\u30b7\u30fc", 
         "skills": {}, 
         "type": [
-            "\u8d85\u80fd"
+            "psychic"
         ]
     }, 
     {
@@ -42480,7 +42480,7 @@
         "jname": "\u30a8\u30e0\u30ea\u30c3\u30c8", 
         "skills": {}, 
         "type": [
-            "\u8d85\u80fd"
+            "psychic"
         ]
     }, 
     {
@@ -42498,7 +42498,7 @@
         "jname": "\u30a2\u30b0\u30ce\u30e0", 
         "skills": {}, 
         "type": [
-            "\u8d85\u80fd"
+            "psychic"
         ]
     }, 
     {
@@ -42517,7 +42517,7 @@
         "skills": {}, 
         "type": [
             "\u94a2", 
-            "\u9f99"
+            "dragon"
         ]
     }, 
     {
@@ -42535,8 +42535,8 @@
         "jname": "\u30d1\u30eb\u30ad\u30a2", 
         "skills": {}, 
         "type": [
-            "\u6c34", 
-            "\u9f99"
+            "water", 
+            "dragon"
         ]
     }, 
     {
@@ -42554,7 +42554,7 @@
         "jname": "\u30d2\u30fc\u30c9\u30e9\u30f3", 
         "skills": {}, 
         "type": [
-            "\u708e", 
+            "fire", 
             "\u94a2"
         ]
     }, 
@@ -42573,7 +42573,7 @@
         "jname": "\u30ec\u30b8\u30ae\u30ac\u30b9", 
         "skills": {}, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -42600,8 +42600,8 @@
         ], 
         "skills": {}, 
         "type": [
-            "\u5e7d\u7075", 
-            "\u9f99"
+            "ghost", 
+            "dragon"
         ]
     }, 
     {
@@ -42619,7 +42619,7 @@
         "jname": "\u30af\u30ec\u30bb\u30ea\u30a2", 
         "skills": {}, 
         "type": [
-            "\u8d85\u80fd"
+            "psychic"
         ]
     }, 
     {
@@ -42637,7 +42637,7 @@
         "jname": "\u30d5\u30a3\u30aa\u30cd", 
         "skills": {}, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -42655,7 +42655,7 @@
         "jname": "\u30de\u30ca\u30d5\u30a3", 
         "skills": {}, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -42700,7 +42700,7 @@
         ], 
         "skills": {}, 
         "type": [
-            "\u8349"
+            "grass"
         ]
     }, 
     {
@@ -42718,7 +42718,7 @@
         "jname": "\u30a2\u30eb\u30bb\u30a6\u30b9", 
         "skills": {}, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -42736,8 +42736,8 @@
         "jname": "\u30d3\u30af\u30c6\u30a3\u30cb", 
         "skills": {}, 
         "type": [
-            "\u8d85\u80fd", 
-            "\u708e"
+            "psychic", 
+            "fire"
         ]
     }, 
     {
@@ -42755,7 +42755,7 @@
         "jname": "\u30c4\u30bf\u30fc\u30b8\u30e3", 
         "skills": {}, 
         "type": [
-            "\u8349"
+            "grass"
         ]
     }, 
     {
@@ -42772,7 +42772,7 @@
         "id": "496", 
         "skills": {}, 
         "type": [
-            "\u8349"
+            "grass"
         ]
     }, 
     {
@@ -42790,7 +42790,7 @@
         "jname": "\u30b8\u30e3\u30ed\u30fc\u30c0", 
         "skills": {}, 
         "type": [
-            "\u8349"
+            "grass"
         ]
     }, 
     {
@@ -42808,7 +42808,7 @@
         "jname": "\u30dd\u30ab\u30d6", 
         "skills": {}, 
         "type": [
-            "\u708e"
+            "fire"
         ]
     }, 
     {
@@ -42826,8 +42826,8 @@
         "jname": "\u30c1\u30e3\u30aa\u30d6\u30fc", 
         "skills": {}, 
         "type": [
-            "\u708e", 
-            "\u683c\u6597"
+            "fire", 
+            "fighting"
         ]
     }, 
     {
@@ -42839,14 +42839,14 @@
             "Sp.Def": 65, 
             "Speed": 65
         }, 
-        "cname": "\u708e\u6b66\u738b", 
+        "cname": "fire\u6b66\u738b", 
         "ename": "Emboar", 
         "id": "500", 
         "jname": "\u30a8\u30f3\u30d6\u30aa\u30fc", 
         "skills": {}, 
         "type": [
-            "\u708e", 
-            "\u683c\u6597"
+            "fire", 
+            "fighting"
         ]
     }, 
     {
@@ -42858,13 +42858,13 @@
             "Sp.Def": 45, 
             "Speed": 45
         }, 
-        "cname": "\u6c34\u6c34\u736d", 
+        "cname": "waterwater\u736d", 
         "ename": "Oshawott", 
         "id": "501", 
         "jname": "\u30df\u30b8\u30e5\u30de\u30eb", 
         "skills": {}, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -42882,7 +42882,7 @@
         "jname": "\u30d5\u30bf\u30c1\u30de\u30eb", 
         "skills": {}, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -42900,7 +42900,7 @@
         "jname": "\u30c0\u30a4\u30b1\u30f3\u30ad", 
         "skills": {}, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -42997,7 +42997,7 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -43114,7 +43114,7 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -43212,7 +43212,7 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -43315,7 +43315,7 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -43413,7 +43413,7 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -43709,7 +43709,7 @@
             ]
         }, 
         "type": [
-            "\u8349"
+            "grass"
         ]
     }, 
     {
@@ -43817,7 +43817,7 @@
             ]
         }, 
         "type": [
-            "\u8349"
+            "grass"
         ]
     }, 
     {
@@ -43914,7 +43914,7 @@
             ]
         }, 
         "type": [
-            "\u708e"
+            "fire"
         ]
     }, 
     {
@@ -44022,7 +44022,7 @@
             ]
         }, 
         "type": [
-            "\u708e"
+            "fire"
         ]
     }, 
     {
@@ -44034,7 +44034,7 @@
             "Sp.Def": 48, 
             "Speed": 64
         }, 
-        "cname": "\u51b7\u6c34\u7334", 
+        "cname": "\u51b7water\u7334", 
         "ename": "Panpour", 
         "id": "515", 
         "jname": "\u30d2\u30e4\u30c3\u30d7", 
@@ -44122,7 +44122,7 @@
             ]
         }, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -44134,7 +44134,7 @@
             "Sp.Def": 63, 
             "Speed": 101
         }, 
-        "cname": "\u51b7\u6c34\u733f", 
+        "cname": "\u51b7water\u733f", 
         "ename": "Simipour", 
         "id": "516", 
         "jname": "\u30d2\u30e4\u30c3\u30ad\u30fc", 
@@ -44232,7 +44232,7 @@
             ]
         }, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -44330,7 +44330,7 @@
             ]
         }, 
         "type": [
-            "\u8d85\u80fd"
+            "psychic"
         ]
     }, 
     {
@@ -44433,7 +44433,7 @@
             ]
         }, 
         "type": [
-            "\u8d85\u80fd"
+            "psychic"
         ]
     }, 
     {
@@ -44508,8 +44508,8 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c", 
-            "\u98de\u884c"
+            "normal", 
+            "flying"
         ]
     }, 
     {
@@ -44587,8 +44587,8 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c", 
-            "\u98de\u884c"
+            "normal", 
+            "flying"
         ]
     }, 
     {
@@ -44679,8 +44679,8 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c", 
-            "\u98de\u884c"
+            "normal", 
+            "flying"
         ]
     }, 
     {
@@ -44758,7 +44758,7 @@
             ]
         }, 
         "type": [
-            "\u7535"
+            "electric"
         ]
     }, 
     {
@@ -44770,7 +44770,7 @@
             "Sp.Def": 63, 
             "Speed": 116
         }, 
-        "cname": "\u96f7\u7535\u6591\u9a6c", 
+        "cname": "\u96f7electric\u6591\u9a6c", 
         "ename": "Zebstrika", 
         "id": "523", 
         "jname": "\u30bc\u30d6\u30e9\u30a4\u30ab", 
@@ -44845,7 +44845,7 @@
             ]
         }, 
         "type": [
-            "\u7535"
+            "electric"
         ]
     }, 
     {
@@ -44923,7 +44923,7 @@
             ]
         }, 
         "type": [
-            "\u5ca9\u77f3"
+            "rock"
         ]
     }, 
     {
@@ -45006,7 +45006,7 @@
             ]
         }, 
         "type": [
-            "\u5ca9\u77f3"
+            "rock"
         ]
     }, 
     {
@@ -45093,7 +45093,7 @@
             ]
         }, 
         "type": [
-            "\u5ca9\u77f3"
+            "rock"
         ]
     }, 
     {
@@ -45200,8 +45200,8 @@
             ]
         }, 
         "type": [
-            "\u8d85\u80fd", 
-            "\u98de\u884c"
+            "psychic", 
+            "flying"
         ]
     }, 
     {
@@ -45313,8 +45313,8 @@
             ]
         }, 
         "type": [
-            "\u8d85\u80fd", 
-            "\u98de\u884c"
+            "psychic", 
+            "flying"
         ]
     }, 
     {
@@ -45398,7 +45398,7 @@
             ]
         }, 
         "type": [
-            "\u5730\u4e0a"
+            "ground"
         ]
     }, 
     {
@@ -45410,7 +45410,7 @@
             "Sp.Def": 65, 
             "Speed": 88
         }, 
-        "cname": "\u9f99\u5934\u5730\u9f20", 
+        "cname": "dragon\u5934\u5730\u9f20", 
         "ename": "Excadrill", 
         "id": "530", 
         "jname": "\u30c9\u30ea\u30e5\u30a6\u30ba", 
@@ -45491,7 +45491,7 @@
             ]
         }, 
         "type": [
-            "\u5730\u4e0a", 
+            "ground", 
             "\u94a2"
         ]
     }, 
@@ -45614,7 +45614,7 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -45709,7 +45709,7 @@
             ]
         }, 
         "type": [
-            "\u683c\u6597"
+            "fighting"
         ]
     }, 
     {
@@ -45806,7 +45806,7 @@
             ]
         }, 
         "type": [
-            "\u683c\u6597"
+            "fighting"
         ]
     }, 
     {
@@ -45907,7 +45907,7 @@
             ]
         }, 
         "type": [
-            "\u683c\u6597"
+            "fighting"
         ]
     }, 
     {
@@ -45981,7 +45981,7 @@
             ]
         }, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -46061,8 +46061,8 @@
             ]
         }, 
         "type": [
-            "\u6c34", 
-            "\u5730\u4e0a"
+            "water", 
+            "ground"
         ]
     }, 
     {
@@ -46163,8 +46163,8 @@
             ]
         }, 
         "type": [
-            "\u6c34", 
-            "\u5730\u4e0a"
+            "water", 
+            "ground"
         ]
     }, 
     {
@@ -46250,7 +46250,7 @@
             ]
         }, 
         "type": [
-            "\u683c\u6597"
+            "fighting"
         ]
     }, 
     {
@@ -46338,7 +46338,7 @@
             ]
         }, 
         "type": [
-            "\u683c\u6597"
+            "fighting"
         ]
     }, 
     {
@@ -46350,7 +46350,7 @@
             "Sp.Def": 60, 
             "Speed": 42
         }, 
-        "cname": "\u866b\u5b9d\u5305", 
+        "cname": "bug\u5b9d\u5305", 
         "ename": "Sewaddle", 
         "id": "540", 
         "jname": "\u30af\u30eb\u30df\u30eb", 
@@ -46419,8 +46419,8 @@
             ]
         }, 
         "type": [
-            "\u866b", 
-            "\u8349"
+            "bug", 
+            "grass"
         ]
     }, 
     {
@@ -46504,8 +46504,8 @@
             ]
         }, 
         "type": [
-            "\u866b", 
-            "\u8349"
+            "bug", 
+            "grass"
         ]
     }, 
     {
@@ -46517,7 +46517,7 @@
             "Sp.Def": 80, 
             "Speed": 92
         }, 
-        "cname": "\u4fdd\u6bcd\u866b", 
+        "cname": "\u4fdd\u6bcdbug", 
         "ename": "Leavanny", 
         "id": "542", 
         "skills": {
@@ -46614,8 +46614,8 @@
             ]
         }, 
         "type": [
-            "\u866b", 
-            "\u8349"
+            "bug", 
+            "grass"
         ]
     }, 
     {
@@ -46689,8 +46689,8 @@
             ]
         }, 
         "type": [
-            "\u866b", 
-            "\u6bd2"
+            "bug", 
+            "poison"
         ]
     }, 
     {
@@ -46766,8 +46766,8 @@
             ]
         }, 
         "type": [
-            "\u866b", 
-            "\u6bd2"
+            "bug", 
+            "poison"
         ]
     }, 
     {
@@ -46864,8 +46864,8 @@
             ]
         }, 
         "type": [
-            "\u866b", 
-            "\u6bd2"
+            "bug", 
+            "poison"
         ]
     }, 
     {
@@ -46882,7 +46882,7 @@
         "id": "546", 
         "skills": {}, 
         "type": [
-            "\u8349", 
+            "grass", 
             "\u5996\u7cbe"
         ]
     }, 
@@ -46900,7 +46900,7 @@
         "id": "547", 
         "skills": {}, 
         "type": [
-            "\u8349", 
+            "grass", 
             "\u5996\u7cbe"
         ]
     }, 
@@ -46979,7 +46979,7 @@
             ]
         }, 
         "type": [
-            "\u8349"
+            "grass"
         ]
     }, 
     {
@@ -47071,7 +47071,7 @@
             ]
         }, 
         "type": [
-            "\u8349"
+            "grass"
         ]
     }, 
     {
@@ -47162,7 +47162,7 @@
             ]
         }, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -47258,7 +47258,7 @@
             ]
         }, 
         "type": [
-            "\u5730\u4e0a", 
+            "ground", 
             "\u6076"
         ]
     }, 
@@ -47366,7 +47366,7 @@
             ]
         }, 
         "type": [
-            "\u5730\u4e0a", 
+            "ground", 
             "\u6076"
         ]
     }, 
@@ -47489,7 +47489,7 @@
             ]
         }, 
         "type": [
-            "\u5730\u4e0a", 
+            "ground", 
             "\u6076"
         ]
     }, 
@@ -47507,7 +47507,7 @@
         "id": "554", 
         "skills": {}, 
         "type": [
-            "\u708e"
+            "fire"
         ]
     }, 
     {
@@ -47534,7 +47534,7 @@
         ], 
         "skills": {}, 
         "type": [
-            "\u708e"
+            "fire"
         ]
     }, 
     {
@@ -47619,7 +47619,7 @@
             ]
         }, 
         "type": [
-            "\u8349"
+            "grass"
         ]
     }, 
     {
@@ -47708,8 +47708,8 @@
             ]
         }, 
         "type": [
-            "\u866b", 
-            "\u5ca9\u77f3"
+            "bug", 
+            "rock"
         ]
     }, 
     {
@@ -47805,8 +47805,8 @@
             ]
         }, 
         "type": [
-            "\u866b", 
-            "\u5ca9\u77f3"
+            "bug", 
+            "rock"
         ]
     }, 
     {
@@ -47916,7 +47916,7 @@
         }, 
         "type": [
             "\u6076", 
-            "\u683c\u6597"
+            "fighting"
         ]
     }, 
     {
@@ -48032,7 +48032,7 @@
         }, 
         "type": [
             "\u6076", 
-            "\u683c\u6597"
+            "fighting"
         ]
     }, 
     {
@@ -48134,8 +48134,8 @@
             ]
         }, 
         "type": [
-            "\u8d85\u80fd", 
-            "\u98de\u884c"
+            "psychic", 
+            "flying"
         ]
     }, 
     {
@@ -48153,7 +48153,7 @@
         "jname": "\u30c7\u30b9\u30de\u30b9", 
         "skills": {}, 
         "type": [
-            "\u5e7d\u7075"
+            "ghost"
         ]
     }, 
     {
@@ -48171,7 +48171,7 @@
         "jname": "\u30c7\u30b9\u30ab\u30fc\u30f3", 
         "skills": {}, 
         "type": [
-            "\u5e7d\u7075"
+            "ghost"
         ]
     }, 
     {
@@ -48264,8 +48264,8 @@
             ]
         }, 
         "type": [
-            "\u6c34", 
-            "\u5ca9\u77f3"
+            "water", 
+            "rock"
         ]
     }, 
     {
@@ -48365,8 +48365,8 @@
             ]
         }, 
         "type": [
-            "\u6c34", 
-            "\u5ca9\u77f3"
+            "water", 
+            "rock"
         ]
     }, 
     {
@@ -48464,8 +48464,8 @@
             ]
         }, 
         "type": [
-            "\u5ca9\u77f3", 
-            "\u98de\u884c"
+            "rock", 
+            "flying"
         ]
     }, 
     {
@@ -48571,8 +48571,8 @@
             ]
         }, 
         "type": [
-            "\u5ca9\u77f3", 
-            "\u98de\u884c"
+            "rock", 
+            "flying"
         ]
     }, 
     {
@@ -48654,7 +48654,7 @@
             ]
         }, 
         "type": [
-            "\u6bd2"
+            "poison"
         ]
     }, 
     {
@@ -48750,7 +48750,7 @@
             ]
         }, 
         "type": [
-            "\u6bd2"
+            "poison"
         ]
     }, 
     {
@@ -49049,7 +49049,7 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -49148,7 +49148,7 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -49252,7 +49252,7 @@
             ]
         }, 
         "type": [
-            "\u8d85\u80fd"
+            "psychic"
         ]
     }, 
     {
@@ -49358,7 +49358,7 @@
             ]
         }, 
         "type": [
-            "\u8d85\u80fd"
+            "psychic"
         ]
     }, 
     {
@@ -49469,7 +49469,7 @@
             ]
         }, 
         "type": [
-            "\u8d85\u80fd"
+            "psychic"
         ]
     }, 
     {
@@ -49564,7 +49564,7 @@
             ]
         }, 
         "type": [
-            "\u8d85\u80fd"
+            "psychic"
         ]
     }, 
     {
@@ -49662,7 +49662,7 @@
             ]
         }, 
         "type": [
-            "\u8d85\u80fd"
+            "psychic"
         ]
     }, 
     {
@@ -49775,7 +49775,7 @@
             ]
         }, 
         "type": [
-            "\u8d85\u80fd"
+            "psychic"
         ]
     }, 
     {
@@ -49854,8 +49854,8 @@
             ]
         }, 
         "type": [
-            "\u6c34", 
-            "\u98de\u884c"
+            "water", 
+            "flying"
         ]
     }, 
     {
@@ -49940,8 +49940,8 @@
             ]
         }, 
         "type": [
-            "\u6c34", 
-            "\u98de\u884c"
+            "water", 
+            "flying"
         ]
     }, 
     {
@@ -49953,7 +49953,7 @@
             "Sp.Def": 60, 
             "Speed": 44
         }, 
-        "cname": "\u8ff7\u4f60\u51b0", 
+        "cname": "\u8ff7\u4f60ice", 
         "ename": "Vanillite", 
         "id": "582", 
         "jname": "\u30d0\u30cb\u30d7\u30c3\u30c1", 
@@ -50017,7 +50017,7 @@
             ]
         }, 
         "type": [
-            "\u51b0"
+            "ice"
         ]
     }, 
     {
@@ -50029,7 +50029,7 @@
             "Sp.Def": 75, 
             "Speed": 59
         }, 
-        "cname": "\u591a\u591a\u51b0", 
+        "cname": "\u591a\u591aice", 
         "ename": "Vanillish", 
         "id": "583", 
         "jname": "\u30d0\u30cb\u30ea\u30c3\u30c1", 
@@ -50096,7 +50096,7 @@
             ]
         }, 
         "type": [
-            "\u51b0"
+            "ice"
         ]
     }, 
     {
@@ -50108,7 +50108,7 @@
             "Sp.Def": 95, 
             "Speed": 79
         }, 
-        "cname": "\u53cc\u500d\u591a\u591a\u51b0", 
+        "cname": "\u53cc\u500d\u591a\u591aice", 
         "ename": "Vanilluxe", 
         "id": "584", 
         "jname": "\u30d0\u30a4\u30d0\u30cb\u30e9", 
@@ -50180,7 +50180,7 @@
             ]
         }, 
         "type": [
-            "\u51b0"
+            "ice"
         ]
     }, 
     {
@@ -50265,8 +50265,8 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c", 
-            "\u8349"
+            "normal", 
+            "grass"
         ]
     }, 
     {
@@ -50360,8 +50360,8 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c", 
-            "\u8349"
+            "normal", 
+            "grass"
         ]
     }, 
     {
@@ -50373,7 +50373,7 @@
             "Sp.Def": 60, 
             "Speed": 103
         }, 
-        "cname": "\u5bfc\u7535\u98de\u9f20", 
+        "cname": "\u5bfcelectric\u98de\u9f20", 
         "ename": "Emolga", 
         "id": "587", 
         "jname": "\u30a8\u30e2\u30f3\u30ac", 
@@ -50450,8 +50450,8 @@
             ]
         }, 
         "type": [
-            "\u7535", 
-            "\u98de\u884c"
+            "electric", 
+            "flying"
         ]
     }, 
     {
@@ -50463,7 +50463,7 @@
             "Sp.Def": 45, 
             "Speed": 60
         }, 
-        "cname": "\u76d6\u76d6\u866b", 
+        "cname": "\u76d6\u76d6bug", 
         "ename": "Karrablast", 
         "id": "588", 
         "jname": "\u30ab\u30d6\u30eb\u30e2", 
@@ -50529,7 +50529,7 @@
             ]
         }, 
         "type": [
-            "\u866b"
+            "bug"
         ]
     }, 
     {
@@ -50623,7 +50623,7 @@
             ]
         }, 
         "type": [
-            "\u866b", 
+            "bug", 
             "\u94a2"
         ]
     }, 
@@ -50703,8 +50703,8 @@
             ]
         }, 
         "type": [
-            "\u8349", 
-            "\u6bd2"
+            "grass", 
+            "poison"
         ]
     }, 
     {
@@ -50788,8 +50788,8 @@
             ]
         }, 
         "type": [
-            "\u8349", 
-            "\u6bd2"
+            "grass", 
+            "poison"
         ]
     }, 
     {
@@ -50816,8 +50816,8 @@
         ], 
         "skills": {}, 
         "type": [
-            "\u6c34", 
-            "\u5e7d\u7075"
+            "water", 
+            "ghost"
         ]
     }, 
     {
@@ -50844,8 +50844,8 @@
         ], 
         "skills": {}, 
         "type": [
-            "\u6c34", 
-            "\u5e7d\u7075"
+            "water", 
+            "ghost"
         ]
     }, 
     {
@@ -50931,7 +50931,7 @@
             ]
         }, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -50943,7 +50943,7 @@
             "Sp.Def": 50, 
             "Speed": 65
         }, 
-        "cname": "\u7535\u7535\u866b", 
+        "cname": "electricelectricbug", 
         "ename": "Joltik", 
         "id": "595", 
         "jname": "\u30d0\u30c1\u30e5\u30eb", 
@@ -51015,8 +51015,8 @@
             ]
         }, 
         "type": [
-            "\u866b", 
-            "\u7535"
+            "bug", 
+            "electric"
         ]
     }, 
     {
@@ -51028,7 +51028,7 @@
             "Sp.Def": 60, 
             "Speed": 108
         }, 
-        "cname": "\u7535\u8718\u86db", 
+        "cname": "electric\u8718\u86db", 
         "ename": "Galvantula", 
         "id": "596", 
         "jname": "\u30c7\u30f3\u30c1\u30e5\u30e9", 
@@ -51106,8 +51106,8 @@
             ]
         }, 
         "type": [
-            "\u866b", 
-            "\u7535"
+            "bug", 
+            "electric"
         ]
     }, 
     {
@@ -51190,7 +51190,7 @@
             ]
         }, 
         "type": [
-            "\u8349", 
+            "grass", 
             "\u94a2"
         ]
     }, 
@@ -51290,7 +51290,7 @@
             ]
         }, 
         "type": [
-            "\u8349", 
+            "grass", 
             "\u94a2"
         ]
     }, 
@@ -51528,7 +51528,7 @@
         "jname": "\u30b7\u30d3\u30b7\u30e9\u30b9", 
         "skills": {}, 
         "type": [
-            "\u7535"
+            "electric"
         ]
     }, 
     {
@@ -51546,7 +51546,7 @@
         "jname": "\u30b7\u30d3\u30d3\u30fc\u30eb", 
         "skills": {}, 
         "type": [
-            "\u7535"
+            "electric"
         ]
     }, 
     {
@@ -51564,7 +51564,7 @@
         "jname": "\u30b7\u30d3\u30eb\u30c9\u30f3", 
         "skills": {}, 
         "type": [
-            "\u7535"
+            "electric"
         ]
     }, 
     {
@@ -51582,7 +51582,7 @@
         "jname": "\u30ea\u30b0\u30ec\u30fc", 
         "skills": {}, 
         "type": [
-            "\u8d85\u80fd"
+            "psychic"
         ]
     }, 
     {
@@ -51600,7 +51600,7 @@
         "jname": "\u30aa\u30fc\u30d9\u30e0", 
         "skills": {}, 
         "type": [
-            "\u8d85\u80fd"
+            "psychic"
         ]
     }, 
     {
@@ -51692,8 +51692,8 @@
             ]
         }, 
         "type": [
-            "\u5e7d\u7075", 
-            "\u708e"
+            "ghost", 
+            "fire"
         ]
     }, 
     {
@@ -51705,7 +51705,7 @@
             "Sp.Def": 60, 
             "Speed": 55
         }, 
-        "cname": "\u706f\u706b\u5e7d\u7075", 
+        "cname": "\u706f\u706bghost", 
         "ename": "Lampent", 
         "id": "608", 
         "jname": "\u30e9\u30f3\u30d7\u30e9\u30fc", 
@@ -51787,8 +51787,8 @@
             ]
         }, 
         "type": [
-            "\u5e7d\u7075", 
-            "\u708e"
+            "ghost", 
+            "fire"
         ]
     }, 
     {
@@ -51800,7 +51800,7 @@
             "Sp.Def": 90, 
             "Speed": 80
         }, 
-        "cname": "\u6c34\u6676\u706f\u706b\u7075", 
+        "cname": "water\u6676\u706f\u706b\u7075", 
         "ename": "Chandelure", 
         "id": "609", 
         "jname": "\u30b7\u30e3\u30f3\u30c7\u30e9", 
@@ -51884,8 +51884,8 @@
             ]
         }, 
         "type": [
-            "\u5e7d\u7075", 
-            "\u708e"
+            "ghost", 
+            "fire"
         ]
     }, 
     {
@@ -51979,7 +51979,7 @@
             ]
         }, 
         "type": [
-            "\u9f99"
+            "dragon"
         ]
     }, 
     {
@@ -51991,7 +51991,7 @@
             "Sp.Def": 50, 
             "Speed": 67
         }, 
-        "cname": "\u65a7\u7259\u9f99", 
+        "cname": "\u65a7\u7259dragon", 
         "ename": "Fraxure", 
         "id": "611", 
         "jname": "\u30aa\u30ce\u30f3\u30c9", 
@@ -52079,7 +52079,7 @@
             ]
         }, 
         "type": [
-            "\u9f99"
+            "dragon"
         ]
     }, 
     {
@@ -52091,7 +52091,7 @@
             "Sp.Def": 70, 
             "Speed": 97
         }, 
-        "cname": "\u53cc\u65a7\u6218\u9f99", 
+        "cname": "\u53cc\u65a7\u6218dragon", 
         "ename": "Haxorus", 
         "id": "612", 
         "jname": "\u30aa\u30ce\u30ce\u30af\u30b9", 
@@ -52188,7 +52188,7 @@
             ]
         }, 
         "type": [
-            "\u9f99"
+            "dragon"
         ]
     }, 
     {
@@ -52276,7 +52276,7 @@
             ]
         }, 
         "type": [
-            "\u51b0"
+            "ice"
         ]
     }, 
     {
@@ -52384,7 +52384,7 @@
             ]
         }, 
         "type": [
-            "\u51b0"
+            "ice"
         ]
     }, 
     {
@@ -52465,7 +52465,7 @@
             ]
         }, 
         "type": [
-            "\u51b0"
+            "ice"
         ]
     }, 
     {
@@ -52541,7 +52541,7 @@
             ]
         }, 
         "type": [
-            "\u866b"
+            "bug"
         ]
     }, 
     {
@@ -52553,7 +52553,7 @@
             "Sp.Def": 60, 
             "Speed": 145
         }, 
-        "cname": "\u654f\u6377\u866b", 
+        "cname": "\u654f\u6377bug", 
         "ename": "Accelgor", 
         "id": "617", 
         "jname": "\u30a2\u30ae\u30eb\u30c0\u30fc", 
@@ -52638,7 +52638,7 @@
             ]
         }, 
         "type": [
-            "\u866b"
+            "bug"
         ]
     }, 
     {
@@ -52736,8 +52736,8 @@
             ]
         }, 
         "type": [
-            "\u5730\u4e0a", 
-            "\u7535"
+            "ground", 
+            "electric"
         ]
     }, 
     {
@@ -52834,7 +52834,7 @@
             ]
         }, 
         "type": [
-            "\u683c\u6597"
+            "fighting"
         ]
     }, 
     {
@@ -52941,7 +52941,7 @@
             ]
         }, 
         "type": [
-            "\u683c\u6597"
+            "fighting"
         ]
     }, 
     {
@@ -52953,7 +52953,7 @@
             "Sp.Def": 90, 
             "Speed": 48
         }, 
-        "cname": "\u8d64\u9762\u9f99", 
+        "cname": "\u8d64\u9762dragon", 
         "ename": "Druddigon", 
         "id": "621", 
         "jname": "\u30af\u30ea\u30e0\u30ac\u30f3", 
@@ -53056,7 +53056,7 @@
             ]
         }, 
         "type": [
-            "\u9f99"
+            "dragon"
         ]
     }, 
     {
@@ -53145,8 +53145,8 @@
             ]
         }, 
         "type": [
-            "\u5730\u4e0a", 
-            "\u5e7d\u7075"
+            "ground", 
+            "ghost"
         ]
     }, 
     {
@@ -53249,8 +53249,8 @@
             ]
         }, 
         "type": [
-            "\u5730\u4e0a", 
-            "\u5e7d\u7075"
+            "ground", 
+            "ghost"
         ]
     }, 
     {
@@ -53478,13 +53478,13 @@
             "Sp.Def": 95, 
             "Speed": 55
         }, 
-        "cname": "\u7206\u7206\u5934\u6c34\u725b", 
+        "cname": "\u7206\u7206\u5934water\u725b", 
         "ename": "Bouffalant", 
         "id": "626", 
         "jname": "\u30d0\u30c3\u30d5\u30ed\u30f3", 
         "skills": {}, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -53561,8 +53561,8 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c", 
-            "\u98de\u884c"
+            "normal", 
+            "flying"
         ]
     }, 
     {
@@ -53648,8 +53648,8 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c", 
-            "\u98de\u884c"
+            "normal", 
+            "flying"
         ]
     }, 
     {
@@ -53740,7 +53740,7 @@
         }, 
         "type": [
             "\u6076", 
-            "\u98de\u884c"
+            "flying"
         ]
     }, 
     {
@@ -53841,7 +53841,7 @@
         }, 
         "type": [
             "\u6076", 
-            "\u98de\u884c"
+            "flying"
         ]
     }, 
     {
@@ -53941,7 +53941,7 @@
             ]
         }, 
         "type": [
-            "\u708e"
+            "fire"
         ]
     }, 
     {
@@ -54028,7 +54028,7 @@
             ]
         }, 
         "type": [
-            "\u866b", 
+            "bug", 
             "\u94a2"
         ]
     }, 
@@ -54041,7 +54041,7 @@
             "Sp.Def": 50, 
             "Speed": 38
         }, 
-        "cname": "\u5355\u9996\u9f99", 
+        "cname": "\u5355\u9996dragon", 
         "ename": "Deino", 
         "id": "633", 
         "jname": "\u30e2\u30ce\u30ba", 
@@ -54120,7 +54120,7 @@
         }, 
         "type": [
             "\u6076", 
-            "\u9f99"
+            "dragon"
         ]
     }, 
     {
@@ -54132,7 +54132,7 @@
             "Sp.Def": 70, 
             "Speed": 58
         }, 
-        "cname": "\u53cc\u5934\u9f99", 
+        "cname": "\u53cc\u5934dragon", 
         "ename": "Zweilous", 
         "id": "634", 
         "jname": "\u30b8\u30d8\u30c3\u30c9", 
@@ -54216,7 +54216,7 @@
         }, 
         "type": [
             "\u6076", 
-            "\u9f99"
+            "dragon"
         ]
     }, 
     {
@@ -54228,7 +54228,7 @@
             "Sp.Def": 90, 
             "Speed": 98
         }, 
-        "cname": "\u4e09\u5934\u9f99", 
+        "cname": "\u4e09\u5934dragon", 
         "ename": "Hydreigon", 
         "id": "635", 
         "jname": "\u30b5\u30b6\u30f3\u30c9\u30e9", 
@@ -54340,7 +54340,7 @@
         }, 
         "type": [
             "\u6076", 
-            "\u9f99"
+            "dragon"
         ]
     }, 
     {
@@ -54352,7 +54352,7 @@
             "Sp.Def": 55, 
             "Speed": 60
         }, 
-        "cname": "\u71c3\u70e7\u866b", 
+        "cname": "\u71c3\u70e7bug", 
         "ename": "Larvesta", 
         "id": "636", 
         "jname": "\u30e1\u30e9\u30eb\u30d0", 
@@ -54419,8 +54419,8 @@
             ]
         }, 
         "type": [
-            "\u866b", 
-            "\u708e"
+            "bug", 
+            "fire"
         ]
     }, 
     {
@@ -54432,7 +54432,7 @@
             "Sp.Def": 105, 
             "Speed": 100
         }, 
-        "cname": "\u706b\u795e\u866b", 
+        "cname": "\u706b\u795ebug", 
         "ename": "Volcarona", 
         "id": "637", 
         "jname": "\u30a6\u30eb\u30ac\u30e2\u30b9", 
@@ -54525,8 +54525,8 @@
             ]
         }, 
         "type": [
-            "\u866b", 
-            "\u708e"
+            "bug", 
+            "fire"
         ]
     }, 
     {
@@ -54545,7 +54545,7 @@
         "skills": {}, 
         "type": [
             "\u94a2", 
-            "\u683c\u6597"
+            "fighting"
         ]
     }, 
     {
@@ -54563,8 +54563,8 @@
         "jname": "\u30c6\u30e9\u30ad\u30aa\u30f3", 
         "skills": {}, 
         "type": [
-            "\u5ca9\u77f3", 
-            "\u683c\u6597"
+            "rock", 
+            "fighting"
         ]
     }, 
     {
@@ -54582,8 +54582,8 @@
         "jname": "\u30d3\u30ea\u30b8\u30aa\u30f3", 
         "skills": {}, 
         "type": [
-            "\u8349", 
-            "\u683c\u6597"
+            "grass", 
+            "fighting"
         ]
     }, 
     {
@@ -54595,13 +54595,13 @@
             "Sp.Def": 80, 
             "Speed": 111
         }, 
-        "cname": "\u9f99\u5377\u4e91", 
+        "cname": "dragon\u5377\u4e91", 
         "ename": "Tornadus", 
         "id": "641", 
         "jname": "\u30c8\u30eb\u30cd\u30ed\u30b9", 
         "skills": {}, 
         "type": [
-            "\u98de\u884c"
+            "flying"
         ]
     }, 
     {
@@ -54613,14 +54613,14 @@
             "Sp.Def": 80, 
             "Speed": 111
         }, 
-        "cname": "\u96f7\u7535\u4e91", 
+        "cname": "\u96f7electric\u4e91", 
         "ename": "Thundurus", 
         "id": "642", 
         "jname": "\u30dc\u30eb\u30c8\u30ed\u30b9", 
         "skills": {}, 
         "type": [
-            "\u7535", 
-            "\u98de\u884c"
+            "electric", 
+            "flying"
         ]
     }, 
     {
@@ -54638,8 +54638,8 @@
         "jname": "\u30ec\u30b7\u30e9\u30e0", 
         "skills": {}, 
         "type": [
-            "\u9f99", 
-            "\u708e"
+            "dragon", 
+            "fire"
         ]
     }, 
     {
@@ -54657,8 +54657,8 @@
         "jname": "\u30bc\u30af\u30ed\u30e0", 
         "skills": {}, 
         "type": [
-            "\u9f99", 
-            "\u7535"
+            "dragon", 
+            "electric"
         ]
     }, 
     {
@@ -54676,8 +54676,8 @@
         "jname": "\u30e9\u30f3\u30c9\u30ed\u30b9", 
         "skills": {}, 
         "type": [
-            "\u5730\u4e0a", 
-            "\u98de\u884c"
+            "ground", 
+            "flying"
         ]
     }, 
     {
@@ -54695,8 +54695,8 @@
         "jname": "\u30ad\u30e5\u30ec\u30e0", 
         "skills": {}, 
         "type": [
-            "\u9f99", 
-            "\u51b0"
+            "dragon", 
+            "ice"
         ]
     }, 
     {
@@ -54714,8 +54714,8 @@
         "jname": "\u30b1\u30eb\u30c7\u30a3\u30aa", 
         "skills": {}, 
         "type": [
-            "\u6c34", 
-            "\u683c\u6597"
+            "water", 
+            "fighting"
         ]
     }, 
     {
@@ -54742,8 +54742,8 @@
         ], 
         "skills": {}, 
         "type": [
-            "\u4e00\u822c", 
-            "\u8d85\u80fd"
+            "normal", 
+            "psychic"
         ]
     }, 
     {
@@ -54761,7 +54761,7 @@
         "jname": "\u30b2\u30ce\u30bb\u30af\u30c8", 
         "skills": {}, 
         "type": [
-            "\u866b", 
+            "bug", 
             "\u94a2"
         ]
     }, 
@@ -54856,7 +54856,7 @@
             ]
         }, 
         "type": [
-            "\u8349"
+            "grass"
         ]
     }, 
     {
@@ -54952,7 +54952,7 @@
             ]
         }, 
         "type": [
-            "\u8349"
+            "grass"
         ]
     }, 
     {
@@ -55061,8 +55061,8 @@
             ]
         }, 
         "type": [
-            "\u8349", 
-            "\u683c\u6597"
+            "grass", 
+            "fighting"
         ]
     }, 
     {
@@ -55145,7 +55145,7 @@
             ]
         }, 
         "type": [
-            "\u708e"
+            "fire"
         ]
     }, 
     {
@@ -55228,7 +55228,7 @@
             ]
         }, 
         "type": [
-            "\u708e"
+            "fire"
         ]
     }, 
     {
@@ -55324,8 +55324,8 @@
             ]
         }, 
         "type": [
-            "\u708e", 
-            "\u8d85\u80fd"
+            "fire", 
+            "psychic"
         ]
     }, 
     {
@@ -55409,7 +55409,7 @@
             ]
         }, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -55494,7 +55494,7 @@
             ]
         }, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -55595,7 +55595,7 @@
             ]
         }, 
         "type": [
-            "\u6c34", 
+            "water", 
             "\u6076"
         ]
     }, 
@@ -55678,7 +55678,7 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -55770,8 +55770,8 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c", 
-            "\u5730\u4e0a"
+            "normal", 
+            "ground"
         ]
     }, 
     {
@@ -55839,8 +55839,8 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c", 
-            "\u98de\u884c"
+            "normal", 
+            "flying"
         ]
     }, 
     {
@@ -55913,8 +55913,8 @@
             ]
         }, 
         "type": [
-            "\u708e", 
-            "\u98de\u884c"
+            "fire", 
+            "flying"
         ]
     }, 
     {
@@ -55995,8 +55995,8 @@
             ]
         }, 
         "type": [
-            "\u708e", 
-            "\u98de\u884c"
+            "fire", 
+            "flying"
         ]
     }, 
     {
@@ -56026,7 +56026,7 @@
             ]
         }, 
         "type": [
-            "\u866b"
+            "bug"
         ]
     }, 
     {
@@ -56063,7 +56063,7 @@
             ]
         }, 
         "type": [
-            "\u866b"
+            "bug"
         ]
     }, 
     {
@@ -56148,8 +56148,8 @@
             ]
         }, 
         "type": [
-            "\u866b", 
-            "\u98de\u884c"
+            "bug", 
+            "flying"
         ]
     }, 
     {
@@ -56229,8 +56229,8 @@
             ]
         }, 
         "type": [
-            "\u708e", 
-            "\u4e00\u822c"
+            "fire", 
+            "normal"
         ]
     }, 
     {
@@ -56313,8 +56313,8 @@
             ]
         }, 
         "type": [
-            "\u708e", 
-            "\u4e00\u822c"
+            "fire", 
+            "normal"
         ]
     }, 
     {
@@ -56612,7 +56612,7 @@
             ]
         }, 
         "type": [
-            "\u8349"
+            "grass"
         ]
     }, 
     {
@@ -56695,7 +56695,7 @@
             ]
         }, 
         "type": [
-            "\u8349"
+            "grass"
         ]
     }, 
     {
@@ -56780,7 +56780,7 @@
             ]
         }, 
         "type": [
-            "\u683c\u6597"
+            "fighting"
         ]
     }, 
     {
@@ -56885,7 +56885,7 @@
             ]
         }, 
         "type": [
-            "\u683c\u6597", 
+            "fighting", 
             "\u6076"
         ]
     }, 
@@ -56960,7 +56960,7 @@
             ]
         }, 
         "type": [
-            "\u4e00\u822c"
+            "normal"
         ]
     }, 
     {
@@ -57033,7 +57033,7 @@
             ]
         }, 
         "type": [
-            "\u8d85\u80fd"
+            "psychic"
         ]
     }, 
     {
@@ -57125,7 +57125,7 @@
             ]
         }, 
         "type": [
-            "\u8d85\u80fd"
+            "psychic"
         ]
     }, 
     {
@@ -57196,7 +57196,7 @@
         }, 
         "type": [
             "\u94a2", 
-            "\u5e7d\u7075"
+            "ghost"
         ]
     }, 
     {
@@ -57267,7 +57267,7 @@
         }, 
         "type": [
             "\u94a2", 
-            "\u5e7d\u7075"
+            "ghost"
         ]
     }, 
     {
@@ -57347,7 +57347,7 @@
         }, 
         "type": [
             "\u94a2", 
-            "\u5e7d\u7075"
+            "ghost"
         ]
     }, 
     {
@@ -57744,7 +57744,7 @@
         }, 
         "type": [
             "\u6076", 
-            "\u8d85\u80fd"
+            "psychic"
         ]
     }, 
     {
@@ -57834,7 +57834,7 @@
         }, 
         "type": [
             "\u6076", 
-            "\u8d85\u80fd"
+            "psychic"
         ]
     }, 
     {
@@ -57931,8 +57931,8 @@
             ]
         }, 
         "type": [
-            "\u5ca9\u77f3", 
-            "\u6c34"
+            "rock", 
+            "water"
         ]
     }, 
     {
@@ -58038,8 +58038,8 @@
             ]
         }, 
         "type": [
-            "\u5ca9\u77f3", 
-            "\u6c34"
+            "rock", 
+            "water"
         ]
     }, 
     {
@@ -58109,8 +58109,8 @@
             ]
         }, 
         "type": [
-            "\u6bd2", 
-            "\u6c34"
+            "poison", 
+            "water"
         ]
     }, 
     {
@@ -58192,8 +58192,8 @@
             ]
         }, 
         "type": [
-            "\u6bd2", 
-            "\u9f99"
+            "poison", 
+            "dragon"
         ]
     }, 
     {
@@ -58264,7 +58264,7 @@
             ]
         }, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -58347,7 +58347,7 @@
             ]
         }, 
         "type": [
-            "\u6c34"
+            "water"
         ]
     }, 
     {
@@ -58425,8 +58425,8 @@
             ]
         }, 
         "type": [
-            "\u7535", 
-            "\u4e00\u822c"
+            "electric", 
+            "normal"
         ]
     }, 
     {
@@ -58511,8 +58511,8 @@
             ]
         }, 
         "type": [
-            "\u7535", 
-            "\u4e00\u822c"
+            "electric", 
+            "normal"
         ]
     }, 
     {
@@ -58594,8 +58594,8 @@
             ]
         }, 
         "type": [
-            "\u5ca9\u77f3", 
-            "\u9f99"
+            "rock", 
+            "dragon"
         ]
     }, 
     {
@@ -58683,8 +58683,8 @@
             ]
         }, 
         "type": [
-            "\u5ca9\u77f3", 
-            "\u9f99"
+            "rock", 
+            "dragon"
         ]
     }, 
     {
@@ -58775,8 +58775,8 @@
             ]
         }, 
         "type": [
-            "\u5ca9\u77f3", 
-            "\u51b0"
+            "rock", 
+            "ice"
         ]
     }, 
     {
@@ -58873,8 +58873,8 @@
             ]
         }, 
         "type": [
-            "\u5ca9\u77f3", 
-            "\u51b0"
+            "rock", 
+            "ice"
         ]
     }, 
     {
@@ -59067,8 +59067,8 @@
             ]
         }, 
         "type": [
-            "\u683c\u6597", 
-            "\u98de\u884c"
+            "fighting", 
+            "flying"
         ]
     }, 
     {
@@ -59145,7 +59145,7 @@
             ]
         }, 
         "type": [
-            "\u7535", 
+            "electric", 
             "\u5996\u7cbe"
         ]
     }, 
@@ -59219,7 +59219,7 @@
             ]
         }, 
         "type": [
-            "\u5ca9\u77f3", 
+            "rock", 
             "\u5996\u7cbe"
         ]
     }, 
@@ -59286,7 +59286,7 @@
             ]
         }, 
         "type": [
-            "\u9f99"
+            "dragon"
         ]
     }, 
     {
@@ -59354,7 +59354,7 @@
             ]
         }, 
         "type": [
-            "\u9f99"
+            "dragon"
         ]
     }, 
     {
@@ -59440,7 +59440,7 @@
             ]
         }, 
         "type": [
-            "\u9f99"
+            "dragon"
         ]
     }, 
     {
@@ -59595,8 +59595,8 @@
             ]
         }, 
         "type": [
-            "\u5e7d\u7075", 
-            "\u8349"
+            "ghost", 
+            "grass"
         ]
     }, 
     {
@@ -59685,8 +59685,8 @@
             ]
         }, 
         "type": [
-            "\u5e7d\u7075", 
-            "\u8349"
+            "ghost", 
+            "grass"
         ]
     }, 
     {
@@ -59768,8 +59768,8 @@
             ]
         }, 
         "type": [
-            "\u5e7d\u7075", 
-            "\u8349"
+            "ghost", 
+            "grass"
         ]
     }, 
     {
@@ -59860,8 +59860,8 @@
             ]
         }, 
         "type": [
-            "\u5e7d\u7075", 
-            "\u8349"
+            "ghost", 
+            "grass"
         ]
     }, 
     {
@@ -59935,7 +59935,7 @@
             ]
         }, 
         "type": [
-            "\u51b0"
+            "ice"
         ]
     }, 
     {
@@ -60019,7 +60019,7 @@
             ]
         }, 
         "type": [
-            "\u51b0"
+            "ice"
         ]
     }, 
     {
@@ -60102,8 +60102,8 @@
             ]
         }, 
         "type": [
-            "\u98de\u884c", 
-            "\u9f99"
+            "flying", 
+            "dragon"
         ]
     }, 
     {
@@ -60198,8 +60198,8 @@
             ]
         }, 
         "type": [
-            "\u98de\u884c", 
-            "\u9f99"
+            "flying", 
+            "dragon"
         ]
     }, 
     {
@@ -60358,7 +60358,7 @@
         }, 
         "type": [
             "\u6076", 
-            "\u98de\u884c"
+            "flying"
         ]
     }, 
     {
@@ -60432,8 +60432,8 @@
             ]
         }, 
         "type": [
-            "\u9f99", 
-            "\u5730\u4e0a"
+            "dragon", 
+            "ground"
         ]
     }, 
     {
@@ -60526,7 +60526,7 @@
             ]
         }, 
         "type": [
-            "\u5ca9\u77f3", 
+            "rock", 
             "\u5996\u7cbe"
         ]
     }, 
@@ -60640,8 +60640,8 @@
         ]
       },
       "type": [
-        "\u8d85\u80fd",
-        "\u5e7d\u7075"
+        "psychic",
+        "ghost"
       ]
     },
     {
@@ -60731,8 +60731,8 @@
         ]
       },
       "type": [
-        "\u708e",
-        "\u6c34"
+        "fire",
+        "water"
       ]
     }
 ]
