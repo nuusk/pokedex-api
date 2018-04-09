@@ -18,6 +18,10 @@ app.get('/pokemons', (req, res) => {
   db.findPokemons(res)
 });
 
+app.get('/pokemon/:id', (req, res) => {
+  db.findPokemonById(req.params.id, res);
+});
+
 app.listen(4004, () => {
   console.log('Server started on port 4004...');
 })

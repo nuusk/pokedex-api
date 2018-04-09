@@ -1,7 +1,8 @@
 require('dotenv').config();
 const mongoose = require('mongoose');
-console.log(`mongodb://${process.env.DB_USER}:${process.env.DB_PASS}@${process.env.DB_HOST}:${process.env.DB_PORT}/${process.env.DB_NAME}`);
-mongoose.connect(`mongodb://${process.env.DB_USER}:${process.env.DB_PASS}@${process.env.DB_HOST}:${process.env.DB_PORT}/${process.env.DB_NAME}`);
+// console.log(`mongodb://${process.env.DB_USER}:${process.env.DB_PASS}@${process.env.DB_HOST}:${process.env.DB_PORT}/${process.env.DB_NAME}`);
+// mongoose.connect(`mongodb://${process.env.DB_USER}:${process.env.DB_PASS}@${process.env.DB_HOST}:${process.env.DB_PORT}/${process.env.DB_NAME}`);
+mongoose.connect('mongodb://localhost/pokedex');
 
 const Pokemon = require('./models/pokemon');
 const Type = require('./models/type');
@@ -31,18 +32,17 @@ class Database {
     });
   }
 
-  findPokemonById(pokemonId) {
-    return new Promise((resolve, reject) => {
-      Pokemon.findById(pokemonId, (err, pokemon) => {
-        if (err) return console.error(err);
-        resolve(pokemon);
-      });
+  findPokemonById(pokemonId, res) {
+    console.log(pokemonId);
+    Pokemon.find({id:pokemonId}, (err, pokemon) => {
+      if (err) return res.status(500).send("Pokedex is broken.");
+      res.status(200).send(pokemon);
     });
   }
 
   findPokemons(res) {
-    Pokemon.find({}, function (err, pokemons) {
-      if (err) return res.status(500).send("Pokedex is broken");
+    Pokemon.find({}, (err, pokemons) => {
+      if (err) return res.status(500).send("Pokedex is broken.");
       res.status(200).send(pokemons);
     });
   }
