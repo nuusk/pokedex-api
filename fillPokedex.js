@@ -9,5 +9,6 @@ const fillPokedex = async (pokemon) => {
 };
 
 pokedex.forEach(pokemon => {
+  pokemon.url = `https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${parseInt(pokemon.id, 10)}.png`;
   fillPokedex(pokemon);
 });

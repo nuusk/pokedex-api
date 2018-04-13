@@ -2,7 +2,9 @@ require('dotenv').config();
 const mongoose = require('mongoose');
 // console.log(`mongodb://${process.env.DB_USER}:${process.env.DB_PASS}@${process.env.DB_HOST}:${process.env.DB_PORT}/${process.env.DB_NAME}`);
 // mongoose.connect(`mongodb://${process.env.DB_USER}:${process.env.DB_PASS}@${process.env.DB_HOST}:${process.env.DB_PORT}/${process.env.DB_NAME}`);
-mongoose.connect('mongodb://localhost/pokedex');
+mongoose.connect('mongodb://xxxx:xxxx@ds139459.mlab.com:39459/pokedex');
+console.log()
+// mongoose.connect('mongodb://localhost/pokedex');
 
 const Pokemon = require('./models/pokemon');
 const Type = require('./models/type');
@@ -12,7 +14,8 @@ class Database {
     const insertedPokemon = new Pokemon({
       id: pokemon.id,
       name: pokemon.ename,
-      types: pokemon.type
+      types: pokemon.type,
+      image: pokemon.url
     })
     await insertedPokemon.save(err => {
       if (err) {
